@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2021-02-05 08:39\n"
-"PO-Revision-Date: 2021-02-21 14:23+0100\n"
+"PO-Revision-Date: 2021-02-21 14:24+0100\n"
 "Language-Team: \n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -14,214 +14,208 @@ msgstr ""
 "Last-Translator: \n"
 "X-Generator: Poedit 2.4.2\n"
 
-# Question: What type of animals? Farm animals or are we talking about the wolves?
 #. Key:	001930BD4BEE5C921D13349B5FCF7430
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/Hunt/BigHunt/D_Herald_BigHunt_End.D_Herald_BigHunt_End.Data(1).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/Hunt/BigHunt/D_Herald_BigHunt_End.D_Herald_BigHunt_End.Data(1).Data.Text
 msgctxt ",001930BD4BEE5C921D13349B5FCF7430"
 msgid "Are the animals gone? %MALE_TO_MALE%"
-msgstr "Är du färdig med jakten? %MALE_TO_MALE%"
+msgstr ""
 
-# "Dessert" as in cake and cookies, or like a meal between meals which we Swedish call "fika". It can be everything from a sandwich and coffee to a cookie and coffee.
 #. Key:	0037B8AC44457F17D1C0CD92912F0613
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Quests_Generated.DT_Quests_Generated.DessertTime.Name_3_5D2BD6C041E961D204DEE58649580481
 #: /Game/Blueprints/Quest/DT_Quests_Generated.DT_Quests_Generated.DessertTime.Name_3_5D2BD6C041E961D204DEE58649580481
 msgctxt ",0037B8AC44457F17D1C0CD92912F0613"
 msgid "Dessert time"
-msgstr "Dags för fika"
+msgstr ""
 
-# This sounds less mechanic.
 #. Key:	0042AE714FAC5E4E5B2A688B84C125DB
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part5/D_Alwin_Falibor_P5_1.D_Alwin_Falibor_P5_1.Data(4).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part5/D_Alwin_Falibor_P5_1.D_Alwin_Falibor_P5_1.Data(4).Data.Text
 msgctxt ",0042AE714FAC5E4E5B2A688B84C125DB"
 msgid "Take care in the forest. I warn you - Sambor has a difficult character. %MALE_TO_MALE%"
-msgstr "Var försiktig ute i skogen. En liten varning gällande Sambor - han är en underlig typ. %MALE_TO_MALE%"
+msgstr ""
 
-# Words mixed around to make the sentence less mechanic.
 #. Key:	004A6BEA4AA87C0C123362A65C94BF2D
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Jan_P4.D_MainStory_Jan_P4.Data(15).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Jan_P4.D_MainStory_Jan_P4.Data(15).Data.Text
 msgctxt ",004A6BEA4AA87C0C123362A65C94BF2D"
 msgid "Two witnesses. One respected and well-known, the other feared and well-known. But they are reliable. %MALE_TO_MALE%"
-msgstr "Vi har två vittnen som är pålitliga. Båda är välkända där den ena är respektabel och den andre är fruktad. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	005DC8AC4420C0789058989EF19FD41F
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/Chapters/StartOfANewLife/D_StartOfANewLife.D_StartOfANewLife.Data(16).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/Chapters/StartOfANewLife/D_StartOfANewLife.D_StartOfANewLife.Data(16).Data.Text
 msgctxt ",005DC8AC4420C0789058989EF19FD41F"
 msgid "Thank you so much for the advice. It's time for me to find the right place. %MALE_TO_MALE%"
-msgstr "Tack så mycket för rådet. Det är dags för mig att hitta det rätta stället. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	007B6BB441BC1A7C79B0DEBD64E1D75A
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Dalebor2_P3.D_MainQuest_Dalebor2_P3.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Dalebor2_P3.D_MainQuest_Dalebor2_P3.Data(2).Data.Text
 msgctxt ",007B6BB441BC1A7C79B0DEBD64E1D75A"
 msgid "Dalebor, I have your hat. And your money! %MALE_TO_MALE%"
-msgstr "Dalebor, jag har din hatt och dina penningar. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	009A3F8948D1C324793889BDCE71263C
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part2/D_MainStory_Gizela1_P2.D_MainStory_Gizela1_P2.Data(3).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part2/D_MainStory_Gizela1_P2.D_MainStory_Gizela1_P2.Data(3).Data.Text
 msgctxt ",009A3F8948D1C324793889BDCE71263C"
 msgid "You call that sneaking? I ran through the forest like a drunk boar and made noises like a bear in heat. %MALE_TO_FEMALE%"
-msgstr "Kallar du det där för att smyga? Jag dundrade fram genom skogen som ett skadat vildsvin och gjorde ljud ifrån mig som en brunstig björn. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	00A2FFFB4D37F66901F3FB871A9193CD
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(119).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(119).Data.Text
 msgctxt ",00A2FFFB4D37F66901F3FB871A9193CD"
 msgid "Haha, thank you. It's tought at times, but being appreciated like that makes it all worth it. %FEMALE_TO_MALE%"
-msgstr "Haha, tack ska du ha. Det är hårda tider, men att bli uppskattad för ens arbete gör det hela värt. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	00C643544E813CD66E06BB823B00C5CB
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Kinga/Part2/D_Kinga_Start_P2.D_Kinga_Start_P2.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Kinga/Part2/D_Kinga_Start_P2.D_Kinga_Start_P2.Data(2).Data.Text
 msgctxt ",00C643544E813CD66E06BB823B00C5CB"
 msgid "Hello! How are things in Denica these days? %MALE_TO_FEMALE%"
-msgstr "Hallå! Hur är det i Denica numera? %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	00C670384B69090F57EFA191B68AA468
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/FoodProcessing/D_FoodProcessing_Start.D_FoodProcessing_Start.Data(9).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/FoodProcessing/D_FoodProcessing_Start.D_FoodProcessing_Start.Data(9).Data.Text
 msgctxt ",00C670384B69090F57EFA191B68AA468"
 msgid "I could get them for you if you want. %MALE_TO_MALE%"
-msgstr "Jag skulle kunna skaffa dem till dig om du vill. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	00D7300C40B935C95A453E9395E43FBA
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/NeedToFeed/D_Herald_NeedToFeed_End.D_Herald_NeedToFeed_End.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/NeedToFeed/D_Herald_NeedToFeed_End.D_Herald_NeedToFeed_End.Data(2).Data.Text
 msgctxt ",00D7300C40B935C95A453E9395E43FBA"
 msgid "It was a pleasure. %MALE_TO_MALE%"
-msgstr "Det var så lite så. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	00E7F2C14C3A6A341181B5B44372A19E
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_End_P3.D_MainQuest_End_P3.Data(7).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_End_P3.D_MainQuest_End_P3.Data(7).Data.Text
 msgctxt ",00E7F2C14C3A6A341181B5B44372A19E"
 msgid "That`s exactly what I mean! But you shouldn`t go unrewarded. Here I have something for your personal protection, the best, money can buy around here! %MALE_TO_MALE%"
-msgstr "Det är precis vad jag menar! Men du borde inte gå härifrån tomhänt. Här får du något som du kan ha nytta av, det bästa som penningar kan köpa. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	00FEEF5F42AD1369DA46F7A1F4B1AB96
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/DeliveryBoy/D_DeliveryBoy_End.D_DeliveryBoy_End.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/DeliveryBoy/D_DeliveryBoy_End.D_DeliveryBoy_End.Data(2).Data.Text
 msgctxt ",00FEEF5F42AD1369DA46F7A1F4B1AB96"
 msgid "Sure he did. Here's the money he owed you. %MALE_TO_MALE%"
-msgstr "Såklart han gjorde. Här har du penningarna som han var skyldig dig. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0118E5534C11631ABF0A8BAEF35E159E
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/Taxes/D_Taxes_Start.D_Taxes_Start.Data(4).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/Taxes/D_Taxes_Start.D_Taxes_Start.Data(4).Data.Text
 msgctxt ",0118E5534C11631ABF0A8BAEF35E159E"
 msgid "[End dialogue]"
-msgstr "[Avsluta dialog]"
+msgstr ""
 
 #. Key:	0121DD934406CD1B9342E69F384D74CC
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_Knowledge.DT_Knowledge.Heir.Description_10_392D71714A23570CAE6F60BA7A5BA709
 #: /Game/Blueprints/DataTables/DT_Knowledge.DT_Knowledge.Heir.Description_10_392D71714A23570CAE6F60BA7A5BA709
 msgctxt ",0121DD934406CD1B9342E69F384D74CC"
 msgid "The heir ensures your dynasty's survival. To have him, you must first find a wife and then talk to her that you are ready to have a child. Three seasons later, the heir is born. He is looked after by his mother for the first two years, which means she cannot perform any other work. The Heir can be controlled when he is younger (V button on the keyboard), but he has limited activities."
-msgstr "Din arvinge säkerhetsställer  att din ätt överlever. För att få en arvinge behöver du först finna en dig en fru och prata med henne om att du är redo att skaffa  barn. Tre säsonger senare så föds din ättling. Han ses efter av hans mor de två första åren, vilket betyder att hon inte kan utföra något arbete under denna tid. Du kan ta kontroll över ättlingen när han är ung (V-knappen på tangentbordet), men han har begränsade aktiviteter."
+msgstr ""
 
 #. Key:	014BC0F0420C68C475749A99ADA99F1C
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part1/D_MainStory_Start_P1.D_MainStory_Start_P1.Data(8).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part1/D_MainStory_Start_P1.D_MainStory_Start_P1.Data(8).Data.Text
 msgctxt ",014BC0F0420C68C475749A99ADA99F1C"
 msgid "Alright, I will try to talk to him. %MALE_TO_MALE%"
-msgstr "Javisst, jag kan försöka tala med honom. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	014FFDBE4849E63C8366F889D02A8AB4
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/HungrySoldiers/D_Herald_HungrySoldiers_End.D_Herald_HungrySoldiers_End.Data(1).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/HungrySoldiers/D_Herald_HungrySoldiers_End.D_Herald_HungrySoldiers_End.Data(1).Data.Text
 msgctxt ",014FFDBE4849E63C8366F889D02A8AB4"
 msgid "Do you have all the food required? %MALE_TO_MALE%"
-msgstr "Har du all mat du behöver? %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	015EE7814C84F11C798738A2BEDBBD39
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(125).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(125).Data.Text
 msgctxt ",015EE7814C84F11C798738A2BEDBBD39"
 msgid "It must have been scary! I'm glad you're OK. %FEMALE_TO_MALE%"
-msgstr "Det måste ha varit otäckt! Jag är så glad att du mår bra. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	016C488747144E8FA190B5A2E711E649
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part3/D_Alwin_Start_P3.D_Alwin_Start_P3.Data(3).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part3/D_Alwin_Start_P3.D_Alwin_Start_P3.Data(3).Data.Text
 msgctxt ",016C488747144E8FA190B5A2E711E649"
 msgid "Well, that's very sad. Can't you just buy a new one? %MALE_TO_MALE%"
-msgstr "Åh, det var tråkigt att höra. Kan du inte bara köpa en ny? %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0171CA9C48C425C4DD4C5AA8DEE4F61D
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part9/D_Alwin_Start_P9.D_Alwin_Start_P9.Data(10).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part9/D_Alwin_Start_P9.D_Alwin_Start_P9.Data(10).Data.Text
 msgctxt ",0171CA9C48C425C4DD4C5AA8DEE4F61D"
 msgid "Fine. You have eight hours. Kill a bear in this time and I'll admit that you are the best hunter there is. %MALE_TO_MALE%"
-msgstr "Jaja. Du har åtta timmar på dig. Dödar du en björn under denna tid så kommer jag erkänna dig som den bättre jägaren. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0176575D4A99E4416DDD36AAD319CB66
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/Send/D_Herald_Send_Generic.D_Herald_Send_Generic.Data(7).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/Send/D_Herald_Send_Generic.D_Herald_Send_Generic.Data(7).Data.Text
 msgctxt ",0176575D4A99E4416DDD36AAD319CB66"
 msgid "The king wants you to help him personally. You will have to go away for a while. %MALE_TO_FEMALE%"
-msgstr "Kungen vill ha just din hjälp. Du kommer vara iväg en längre tid. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	0198F89E4C1FFBFB884DBBA62D6470B4
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(185).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(185).Data.Text
 msgctxt ",0198F89E4C1FFBFB884DBBA62D6470B4"
 msgid "Sorry, my mom told me not to talk to strangers. %MALE_TO_MALE%"
-msgstr "Tyvärr, min mamma har sagt att jag inte får  prata med främlingar. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	01AA19794E378A0FEAEEAE8BC5B05E44
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/MineBear/D_MineBear_Start.D_MineBear_Start.Data(10).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/MineBear/D_MineBear_Start.D_MineBear_Start.Data(10).Data.Text
 msgctxt ",01AA19794E378A0FEAEEAE8BC5B05E44"
 msgid "I wish. There is a bear near the cave entrance, and I can't get back to work. %FEMALE_TO_MALE%"
-msgstr "Om det ändå vore så. Jag kan inte återgå till arbetet för det finns en björn i närheten av grottöppningen. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0204FBA44B75D16A959949BFF625A2FE
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_Events.DT_Events.WarTaxes.EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0(3).EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0.ButtonDescription_9_61B964E048FE8FD3F7DCE29EF8954C07
 #: /Game/Blueprints/DataTables/DT_Events.DT_Events.WarTaxes.EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0(3).EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0.ButtonDescription_9_61B964E048FE8FD3F7DCE29EF8954C07
 msgctxt ",0204FBA44B75D16A959949BFF625A2FE"
 msgid "Send a letter to the king."
-msgstr "Skicka ett meddelande till kungen."
+msgstr ""
 
 #. Key:	024E7E10451517EFF03E3AA92CCB51EC
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Farming/Bucket/D_Bucket_End.D_Bucket_End.Data(4).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Farming/Bucket/D_Bucket_End.D_Bucket_End.Data(4).Data.Text
 msgctxt ",024E7E10451517EFF03E3AA92CCB51EC"
 msgid "No problem. %MALE_TO_FEMALE%"
-msgstr "Ingen orsak. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	0283433149AB8BFFBA37A2A5A1BF75CB
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(201).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(201).Data.Text
 msgctxt ",0283433149AB8BFFBA37A2A5A1BF75CB"
 msgid "Hello dear."
-msgstr "Hallå min kära."
+msgstr ""
 
-# Depends on what comes before the "alright" in the conversation.
 #. Key:	02A4F48646029C7F38D830A600771300
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/HungerWars/D_Herald_HungerWars_End.D_Herald_HungerWars_End.Data(4).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/HungerWars/D_Herald_HungerWars_End.D_Herald_HungerWars_End.Data(4).Data.Text
-#, fuzzy
 msgctxt ",02A4F48646029C7F38D830A600771300"
 msgid "Alright. %MALE_TO_MALE%"
-msgstr "Javisst. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	02A7D38A4357F768E1227CB60D0D028C
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/Payday/D_Herald_Payday_End.D_Herald_Payday_End.Data(1).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/Payday/D_Herald_Payday_End.D_Herald_Payday_End.Data(1).Data.Text
 msgctxt ",02A7D38A4357F768E1227CB60D0D028C"
 msgid "Sound of money in a sack. Never gets old. %MALE_TO_MALE%"
-msgstr "Klirret av mynt i en penningpåse blir man aldrig trött på. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	02C0E6F44CE2BED30ABEEC87ED956FD7
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewingProblem/D_SewingProblem_End.D_SewingProblem_End.Data(6).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewingProblem/D_SewingProblem_End.D_SewingProblem_End.Data(6).Data.Text
 msgctxt ",02C0E6F44CE2BED30ABEEC87ED956FD7"
 msgid "Here's the wool. %MALE_TO_FEMALE%"
-msgstr "Här har du ullen. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	02CCF7FC40E6AB89137661B54CA6F2C9
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/Chapters/StartOfANewLife/D_StartOfANewLife.D_StartOfANewLife.Data(11).Data.Text
@@ -231,182 +225,168 @@ msgid ""
 "You can cut down trees to build your house. Reed grows by the river, it will work well for a roof.\r\n"
 "Do you have some food with you? %MALE_TO_MALE%"
 msgstr ""
-"Du kan hugga ner träd för att bygga ditt hus. Vass växer längst med flodkanterna. Det kommer fungera utmärkt som tak.\r\n"
-"Har du någon mat med dig? %MALE_TO_MALE%"
 
 #. Key:	02D11C4449B95047169467986C02D43B
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Nieluba1_P3.D_MainQuest_Nieluba1_P3.Data(24).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Nieluba1_P3.D_MainQuest_Nieluba1_P3.Data(24).Data.Text
 msgctxt ",02D11C4449B95047169467986C02D43B"
 msgid "...100 rye grains ... %FEMALE_TO_MALE%"
-msgstr "...100 råg korn ... %FEMALE_TO_MALE%"
+msgstr ""
 
-# farmer boy - bondpojk eller dräng.
 #. Key:	02E26E4A46C6975A85D7EEB33AD47F26
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Kinga/Part2/D_Kinga_End_P2.D_Kinga_End_P2.Data(6).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Kinga/Part2/D_Kinga_End_P2.D_Kinga_End_P2.Data(6).Data.Text
-#, fuzzy
 msgctxt ",02E26E4A46C6975A85D7EEB33AD47F26"
 msgid "Sure thing. Young, strong farmer boy, needs some guidance from time to time, but he has wits, I grant him that. %MALE_TO_FEMALE%"
-msgstr "Jamen visst. Han är en ung, stark dräng som behöver litet tillrättavisande då och då. Men han har förstånd, det kan du hoppa upp och sätta dig på. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	0318A2D449C4C870579ECDB5A05881C4
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_Events.DT_Events.Fever.EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0(0).EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0.EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8(0).EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8.ChoiceConsequence_23_0DA8A7C64EBB7CAF5D87F3928EF75266
 #: /Game/Blueprints/DataTables/DT_Events.DT_Events.Fever.EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0(0).EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0.EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8(0).EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8.ChoiceConsequence_23_0DA8A7C64EBB7CAF5D87F3928EF75266
 msgctxt ",0318A2D449C4C870579ECDB5A05881C4"
 msgid "Your villagers are less effective at work during this season. It's better than dying for a few coins."
-msgstr "Dina bybor är mindre effektiva med arbete under denna säsong. Det är bättre än att offra sig för en obetydlig mängd mynt."
+msgstr ""
 
 #. Key:	032ED1BA4D28E6B87F57828839D95025
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Quests_Story.DT_Quests_Story.IrminasTaxes.QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628(1).QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628.DescriptionOnEnd_51_19027AC046558C62449F06A1C2A1E317
 #: /Game/Blueprints/Quest/DT_Quests_Story.DT_Quests_Story.IrminasTaxes.QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628(1).QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628.DescriptionOnEnd_51_19027AC046558C62449F06A1C2A1E317
 msgctxt ",032ED1BA4D28E6B87F57828839D95025"
 msgid "I wonder if Uniegost would have expected that while collecting taxes I would have to hunt a wolf... Anyway, I have what I came for."
-msgstr "Jag undrar om Uniegost hade förväntat sig att jag skulle vara tvungen att jaga varg medan jag samlade in skatt... I vilket fall som så har jag det som jag kom för."
+msgstr ""
 
 #. Key:	0340D5314B6FB09B744433AD58CD8E50
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/MineBear/D_MineBear_End.D_MineBear_End.Data(7).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/MineBear/D_MineBear_End.D_MineBear_End.Data(7).Data.Text
-#, fuzzy
 msgctxt ",0340D5314B6FB09B744433AD58CD8E50"
 msgid "That's great to hear. I will go back to work as soon as I can. Thank you, here are some coins and a few leftover ores I had lying around. %FEMALE_TO_MALE%"
-msgstr "Det var underbart att höra. Nu kan jag återvända till arbetet igen. Som tack för hjälpen får du några mynt och överblivna järntackor som jag hade till övers. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0342AEF7418FE133C854109AE0403FD5
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Building/WoodcutterChallange/D_WoodcutterChallange_Start.D_WoodcutterChallange_Start.Data(3).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Building/WoodcutterChallange/D_WoodcutterChallange_Start.D_WoodcutterChallange_Start.Data(3).Data.Text
 msgctxt ",0342AEF7418FE133C854109AE0403FD5"
 msgid "Sorry, I don't have 50 coins on me. %MALE_TO_MALE%"
-msgstr "Tyvärr, jag har inte 50 mynt på mig. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0351E04C431964F35910E5BFEE8E2C4A
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part2/D_Alwin_End_P2.D_Alwin_End_P2.Data(10).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part2/D_Alwin_End_P2.D_Alwin_End_P2.Data(10).Data.Text
 msgctxt ",0351E04C431964F35910E5BFEE8E2C4A"
 msgid "Hi. %MALE_TO_MALE%"
-msgstr "Hallå där. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	035DCA2E450F6B6AE57EAE915453E5DF
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/HighValueItem/D_HighValueItem_End.D_HighValueItem_End.Data(4).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/HighValueItem/D_HighValueItem_End.D_HighValueItem_End.Data(4).Data.Text
 msgctxt ",035DCA2E450F6B6AE57EAE915453E5DF"
 msgid "Thank you so much. Here are some coins for your trouble. %FEMALE_TO_MALE%"
-msgstr "Tack så hemskt mycket. Här får du några mynt för ditt besvär. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	037A42604AEC9E5D4F8B04BF73FA9DEA
 #. SourceLocation:	/Game/Blueprints/Crafting/DT_CraftingCategories.DT_CraftingCategories.Carpenting.CategoryDescription_5_7353700F498716505EDAFD80337A80C7
 #: /Game/Blueprints/Crafting/DT_CraftingCategories.DT_CraftingCategories.Carpenting.CategoryDescription_5_7353700F498716505EDAFD80337A80C7
-#, fuzzy
 msgctxt ",037A42604AEC9E5D4F8B04BF73FA9DEA"
 msgid "Crafting various wooden resources."
-msgstr "Slöjda olika typer av träresurser."
+msgstr ""
 
 #. Key:	0380267D4536AEF9EE3AF6BD802C6F4A
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/IronShortage/D_IronShortage_Start.D_IronShortage_Start.Data(7).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/IronShortage/D_IronShortage_Start.D_IronShortage_Start.Data(7).Data.Text
 msgctxt ",0380267D4536AEF9EE3AF6BD802C6F4A"
 msgid "[End dialogue]"
-msgstr "[Avsluta dialog]"
+msgstr ""
 
 #. Key:	03A968654BAD7947FFD005B29604D6BC
 #. SourceLocation:	/Game/Blueprints/Skills/DT_Skills.DT_Skills.Farming.Description_11_A4B109C146E261C2EB0669853227F2A3
 #: /Game/Blueprints/Skills/DT_Skills.DT_Skills.Farming.Description_11_A4B109C146E261C2EB0669853227F2A3
 msgctxt ",03A968654BAD7947FFD005B29604D6BC"
 msgid "A skill that determines how good you are in terms of taking care of farm animals and crafting at the Barn workstation."
-msgstr "En färdighet som bestämmer hur väl du kan ta hand om boskapen och hur skicklig du är på att använda ladugårdens arbetsstationer."
+msgstr ""
 
 #. Key:	03BD09984B10C05A8A627DB9649560EE
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Start_P4.D_MainStory_Start_P4.Data(27).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Start_P4.D_MainStory_Start_P4.Data(27).Data.Text
 msgctxt ",03BD09984B10C05A8A627DB9649560EE"
 msgid "Uniegost. They thought to be hidden from everyones eyes, and a bag of coins went from Uniegost to the stranger. He had a horse, a giant Pinzgauer, that carried him faster than any man could follow. I tried to make it South in time, but... %MALE_TO_MALE%"
-msgstr "Det var Uniegost. De trodde att ingen kunde se dem. Men jag såg att en penningpung gick från Uniegosts hand till främlingens. Han hade en häst, en gigantisk Pinzgauer, som bar honom fortare än vad jag kunde hinna med till fots. Jag försökte ta mig ner söderåt i tid, men... %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	03D5A7FA4BF8D33EEC300D8C0D11475A
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Survival/MushroomTreatment/D_MushroomTreatment_End.D_MushroomTreatment_End.Data(1).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Survival/MushroomTreatment/D_MushroomTreatment_End.D_MushroomTreatment_End.Data(1).Data.Text
 msgctxt ",03D5A7FA4BF8D33EEC300D8C0D11475A"
 msgid "Hi. %MALE_TO_MALE%"
-msgstr "Hejsan. %MALE_TO_MALE%"
+msgstr ""
 
-# In what context?
 #. Key:	03DF46C447BE376244D2B28606005209
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part10/D_Alwin_Start_P10.D_Alwin_Start_P10.Data(6).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part10/D_Alwin_Start_P10.D_Alwin_Start_P10.Data(6).Data.Text
-#, fuzzy
 msgctxt ",03DF46C447BE376244D2B28606005209"
 msgid "No, but this is the one I have. And as you know, a lot of work lies ahead of me. %MALE_TO_MALE%"
-msgstr "Nej, men det är den jag har. Som du vet så har jag mycket job framför mig. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	041FF6A7420E85D8966399B7CC7F9B2C
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/Dept/D_Dept_Start.D_Dept_Start.Data(14).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/Dept/D_Dept_Start.D_Dept_Start.Data(14).Data.Text
 msgctxt ",041FF6A7420E85D8966399B7CC7F9B2C"
 msgid "[End dialogue]"
-msgstr "[Avsluta dialog]"
+msgstr ""
 
 #. Key:	043016B8414353F32BE8D78C1CE6B9C4
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Sambor_P4.D_MainStory_Sambor_P4.Data(6).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Sambor_P4.D_MainStory_Sambor_P4.Data(6).Data.Text
 msgctxt ",043016B8414353F32BE8D78C1CE6B9C4"
 msgid "Any suggestions? %MALE_TO_MALE%"
-msgstr "Några förslag? %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	043A341345AD7BC072C56C9960ACBC36
 #. SourceLocation:	/Game/Blueprints/UI/MainMenu/UI_IntroScreen.UI_IntroScreen_C:WidgetTree.Text05.Text
 #: /Game/Blueprints/UI/MainMenu/UI_IntroScreen.UI_IntroScreen_C:WidgetTree.Text05.Text
 msgctxt ",043A341345AD7BC072C56C9960ACBC36"
 msgid "But at least we had a living, and our plates were never empty."
-msgstr "Men åtminstone hade vi ett hade vi ett leverne, och mat på vårt bord."
+msgstr ""
 
-# As in being right? Or as in follow closely?
 #. Key:	0446E6EE48EAAB2664EDB383E0FEDCB7
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/Thirst/D_Thirst_End.D_Thirst_End.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/Thirst/D_Thirst_End.D_Thirst_End.Data(2).Data.Text
-#, fuzzy
 msgctxt ",0446E6EE48EAAB2664EDB383E0FEDCB7"
 msgid "Right with me. %MALE_TO_MALE%"
-msgstr "Följ mig. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0447E25444DC5FF5F5C14B9C5EA999AA
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Jan_P4.D_MainStory_Jan_P4.Data(10).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Jan_P4.D_MainStory_Jan_P4.Data(10).Data.Text
 msgctxt ",0447E25444DC5FF5F5C14B9C5EA999AA"
 msgid "All three, I guess. But if i have to put a nail in, I would say the villagers. %MALE_TO_MALE%"
-msgstr "Jag antar att det kan vara alla tre. Men om jag måste välja så skulle jag saga att det är byborna. %MALE_TO_MALE%"
+msgstr ""
 
-# What type of grain?
 #. Key:	046680BC45FF5FA7D1E2A8ABD8C389A8
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Farming/DestroyedCrops/D_DestroyedCrops_Start.D_DestroyedCrops_Start.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Farming/DestroyedCrops/D_DestroyedCrops_Start.D_DestroyedCrops_Start.Data(2).Data.Text
-#, fuzzy
 msgctxt ",046680BC45FF5FA7D1E2A8ABD8C389A8"
 msgid "I'll be back with the grain. %MALE_TO_MALE%"
-msgstr "Jag kommer tillbaka med korn. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	047E932E485BE42D51D875B91413CC8C
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(137).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(137).Data.Text
 msgctxt ",047E932E485BE42D51D875B91413CC8C"
 msgid "Are you blind!? %FEMALE_TO_MALE%"
-msgstr "Är du blind!? %FEMALE_TO_MALE%"
+msgstr ""
 
-# What type of graui?
 #. Key:	0486B47A4AF4AAFD3E23C0995686BDE2
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Farming/DestroyedCrops/D_DestroyedCrops_End.D_DestroyedCrops_End.Data(6).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Farming/DestroyedCrops/D_DestroyedCrops_End.D_DestroyedCrops_End.Data(6).Data.Text
 msgctxt ",0486B47A4AF4AAFD3E23C0995686BDE2"
 msgid "Here's the grain. %MALE_TO_FEMALE%"
-msgstr "Här har du spannmålet. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	048A0F164AD42C593FC083BF46280C4B
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part7/D_Alwin_End_P7.D_Alwin_End_P7.Data(6).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part7/D_Alwin_End_P7.D_Alwin_End_P7.Data(6).Data.Text
 msgctxt ",048A0F164AD42C593FC083BF46280C4B"
 msgid "Hi. %MALE_TO_MALE%"
-msgstr "Goddagens. %MALE_TO_MALE%"
+msgstr ""
 
-# what bet? context before that line?
 #. Key:	0495CAA64E9315107443928D588D8C03
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Jan1_P3.D_MainQuest_Jan1_P3.Data(6).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Jan1_P3.D_MainQuest_Jan1_P3.Data(6).Data.Text
@@ -419,22 +399,21 @@ msgstr ""
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Kinga/Part4/D_Kinga_Sambor_P4_1.D_Kinga_Sambor_P4_1.Data(5).Data.Text
 msgctxt ",04A48FE740909AB415309B8A27AB0328"
 msgid "The little girl from Denica? %MALE_TO_MALE%"
-msgstr "Den lilla flickan från Denica? %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	04B3538D44BE240A384775A65FBE4E3F
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Crafting/NewAxe/D_NewAxe_Start.D_NewAxe_Start.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Crafting/NewAxe/D_NewAxe_Start.D_NewAxe_Start.Data(2).Data.Text
 msgctxt ",04B3538D44BE240A384775A65FBE4E3F"
 msgid "I can do that. %MALE_TO_MALE%"
-msgstr "Det kan jag göra. %MALE_TO_MALE%"
+msgstr ""
 
-# Which context?
 #. Key:	04B7C1704CD215FD3A74629A3F1F4692
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Farming/Bucket/D_Bucket_Start.D_Bucket_Start.Data(0).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Farming/Bucket/D_Bucket_Start.D_Bucket_Start.Data(0).Data.Text
 msgctxt ",04B7C1704CD215FD3A74629A3F1F4692"
 msgid "Start"
-msgstr "Börja"
+msgstr ""
 
 #. Key:	04D5E75247FA83D628A6B2A954CD1506
 #. SourceLocation:	/Game/Blueprints/UI/RadialMenu/Building/UI_ModuleModificationMenu.UI_ModuleModificationMenu_C:CreateModulesCategories [Script Bytecode]
@@ -442,45 +421,43 @@ msgstr "Börja"
 #: [Script Bytecode]
 msgctxt ",04D5E75247FA83D628A6B2A954CD1506"
 msgid "A house walls with windows."
-msgstr "Husets väggar med fönster."
+msgstr ""
 
 #. Key:	04F6A4BF48B1EEBCEB2BE681E1FE54FC
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Jan_P4.D_MainStory_Jan_P4.Data(8).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Jan_P4.D_MainStory_Jan_P4.Data(8).Data.Text
 msgctxt ",04F6A4BF48B1EEBCEB2BE681E1FE54FC"
 msgid "It is more a case of letting me pursue justice. Just out of curiosity - whom do you serve? The king, Uniegost or the villagers here? %MALE_TO_MALE%"
-msgstr "Det handlar mer om att jag försöker skaffa mig en rättvis bild. Så utav ren nyfikenhet - vem tjänar du? Uniegost eller byborna? %MALE_TO_MALE%"
+msgstr ""
 
-# Is it the context when moving families into new houses?
 #. Key:	050D028B4FB9E729870B9588691F63F0
 #. SourceLocation:	/Game/Blueprints/UI/Book/Management/UI_NPCChangeHomeAcceptation.UI_NPCChangeHomeAcceptation_C:WidgetTree.txt_TabName.Text
 #: /Game/Blueprints/UI/Book/Management/UI_NPCChangeHomeAcceptation.UI_NPCChangeHomeAcceptation_C:WidgetTree.txt_TabName.Text
 msgctxt ",050D028B4FB9E729870B9588691F63F0"
 msgid "Family Transfer"
-msgstr "Familjen har blivit flyttad"
+msgstr ""
 
 #. Key:	05182FFA4B91673DBD516EB57DF1C162
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part2/D_MainStory_End_P2.D_MainStory_End_P2.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part2/D_MainStory_End_P2.D_MainStory_End_P2.Data(2).Data.Text
 msgctxt ",05182FFA4B91673DBD516EB57DF1C162"
 msgid "Don't worry! I just finished the last collection. See, I have all of the tax you were waiting for! %MALE_TO_MALE%"
-msgstr "Oroa dig inte. Jag blev precis klar med den sista insamlingen. Titta här, jag har all skatt som du väntat på! %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	05183B104DD9B47540FE2DB35239B3EE
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Questss.DT_Questss.ChapterII.Name_3_5D2BD6C041E961D204DEE58649580481
 #: /Game/Blueprints/Quest/DT_Questss.DT_Questss.ChapterII.Name_3_5D2BD6C041E961D204DEE58649580481
 msgctxt ",05183B104DD9B47540FE2DB35239B3EE"
 msgid "Chapter II - A survivalist"
-msgstr "Kapitel II - En överlevare"
+msgstr ""
 
 #. Key:	052FB438456B406300427AA2CC283886
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part2/D_MainStory_SamborQuestHint_P2.D_MainStory_SamborQuestHint_P2.Data(1).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part2/D_MainStory_SamborQuestHint_P2.D_MainStory_SamborQuestHint_P2.Data(1).Data.Text
 msgctxt ",052FB438456B406300427AA2CC283886"
 msgid "Uniegost is collecting taxes again. Each year it gets earlier and earlier. You can tell him to go away. %MALE_TO_MALE%"
-msgstr "Uniegost samlar in skatt igen. Varje år blir det bara tidigare och tidigare. Du kan be honom dra åt skogen! %MALE_TO_MALE%"
+msgstr ""
 
-# need to know how many houses there is in every tier of building development to find a correct translation.
 #. Key:	053937694D97B622F2C32B90256CC5A1
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_Knowledge.DT_Knowledge.Development.Description_10_392D71714A23570CAE6F60BA7A5BA709
 #: /Game/Blueprints/DataTables/DT_Knowledge.DT_Knowledge.Development.Description_10_392D71714A23570CAE6F60BA7A5BA709
@@ -497,128 +474,118 @@ msgid ""
 "•    Town\r\n"
 "•    City"
 msgstr ""
-"Det här är tillståndet på din by. Genom att förbättra bybornas tillvaro ökar det möjligheten att utveckla landet. För varje kapitel som blir färdigt låser et upp nya utvecklingsmöjligheter. Dessa utvecklingar inkluderar: \r\n"
-"•    Enkelt läger\r\n"
-"•    Läger\r\n"
-"•    Liten bondgård\r\n"
-"•    Bondgård\r\n"
-"•    Bosättning\r\n"
-"•    Liten by\r\n"
-"•    By\r\n"
-"•    Samhälle\r\n"
-"•    Stad"
 
 #. Key:	057E4B8440104F8F822404A0FB6240FA
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_Events.DT_Events.Nobleman.EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0(2).EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0.ButtonDescription_9_61B964E048FE8FD3F7DCE29EF8954C07
 #: /Game/Blueprints/DataTables/DT_Events.DT_Events.Nobleman.EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0(2).EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0.ButtonDescription_9_61B964E048FE8FD3F7DCE29EF8954C07
 msgctxt ",057E4B8440104F8F822404A0FB6240FA"
 msgid "Take it for yourself"
-msgstr "Ta det för egen del"
+msgstr ""
 
 #. Key:	058B178540B3C5394EFC4C92E0DFD6C0
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(171).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(171).Data.Text
 msgctxt ",058B178540B3C5394EFC4C92E0DFD6C0"
 msgid "Sorry, not interested. %FEMALE_TO_MALE%"
-msgstr "Tyvärr, jag är inte intresserad. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	05AFC71046586EA9354D49B299543F5B
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_End.D_SewMe_End.Data(7).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_End.D_SewMe_End.Data(7).Data.Text
 msgctxt ",05AFC71046586EA9354D49B299543F5B"
 msgid "I'm sorry but her item is better than yours. %MALE_TO_FEMALE%"
-msgstr "Tyvärr, men hennes pryl är bättre än din. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	05B4421B42D4CE5BC520669B3B87BBF0
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(58).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(58).Data.Text
 msgctxt ",05B4421B42D4CE5BC520669B3B87BBF0"
 msgid "I'm fine, what is it to you?"
-msgstr "Jag mår bra, vad har du med det att göra?"
+msgstr ""
 
 #. Key:	05E4A16C4F9EE1B6C29ECBB4D86EF380
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Kinga/Part2/D_Kinga_Dagobert_P2_2.D_Kinga_Dagobert_P2_2.Data(3).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Kinga/Part2/D_Kinga_Dagobert_P2_2.D_Kinga_Dagobert_P2_2.Data(3).Data.Text
 msgctxt ",05E4A16C4F9EE1B6C29ECBB4D86EF380"
 msgid "I still have no money to pay you. %MALE_TO_MALE%"
-msgstr "Jag är fortfarande pank. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	05E96D734D1DE1143BB6B68D27072BBC
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/TimeToRebuild/D_Herald_TimeToRebuild_End.D_Herald_TimeToRebuild_End.Data(0).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/TimeToRebuild/D_Herald_TimeToRebuild_End.D_Herald_TimeToRebuild_End.Data(0).Data.Text
 msgctxt ",05E96D734D1DE1143BB6B68D27072BBC"
 msgid "Start"
-msgstr "Börja"
+msgstr ""
 
 #. Key:	05F15C034A6F722E081430A6BD0AD40E
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Quests_Generated.DT_Quests_Generated.FoodProcessing.Name_3_5D2BD6C041E961D204DEE58649580481
 #: /Game/Blueprints/Quest/DT_Quests_Generated.DT_Quests_Generated.FoodProcessing.Name_3_5D2BD6C041E961D204DEE58649580481
 msgctxt ",05F15C034A6F722E081430A6BD0AD40E"
 msgid "Food processing"
-msgstr "Matberedning"
+msgstr ""
 
 #. Key:	05F5445544936813B8C29FBEC1274BCE
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(68).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(68).Data.Text
 msgctxt ",05F5445544936813B8C29FBEC1274BCE"
 msgid "Not really, no. I only care when people are talking about me."
-msgstr "Inte direkt, nej. Jag bryr mig bara när andra pratar om mig."
+msgstr ""
 
 #. Key:	05FC373D413556D33CDB86BB4D4B7225
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/HungrySoldiers/D_Herald_HungrySoldiers_End.D_Herald_HungrySoldiers_End.Data(3).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/HungrySoldiers/D_Herald_HungrySoldiers_End.D_Herald_HungrySoldiers_End.Data(3).Data.Text
 msgctxt ",05FC373D413556D33CDB86BB4D4B7225"
 msgid "Excellent! The king will be pleased. %MALE_TO_MALE%"
-msgstr "Utmärkt! Kungen kommer bli mycket nöjd. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	060F47C249065D90537FCBA97ACB3849
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_Knowledge.DT_Knowledge.Crafting.Description_10_392D71714A23570CAE6F60BA7A5BA709
 #: /Game/Blueprints/DataTables/DT_Knowledge.DT_Knowledge.Crafting.Description_10_392D71714A23570CAE6F60BA7A5BA709
 msgctxt ",060F47C249065D90537FCBA97ACB3849"
 msgid "The Hand Crafting menu is available under the “Q” button on the keyboard in the “Crafting” category. Regular Crafting is available by interacting with specific workstations."
-msgstr "Tillverkningsmenyn finns tillgänglig på Q-knappen på tangentbordet i kategorin \"Tillverkning\". Utökad tillverkning finns tillgänglig genom att interagera med olika specifika arbetsplatser."
+msgstr ""
 
 #. Key:	062F06D14C0E460EB06C6B828622E91C
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/JustLikePapa/D_JustLikePapa_End.D_JustLikePapa_End.Data(0).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/JustLikePapa/D_JustLikePapa_End.D_JustLikePapa_End.Data(0).Data.Text
 msgctxt ",062F06D14C0E460EB06C6B828622E91C"
 msgid "Start"
-msgstr "Börja"
+msgstr ""
 
 #. Key:	06486D17486C195D297F42A8D5F2EF88
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(16).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(16).Data.Text
 msgctxt ",06486D17486C195D297F42A8D5F2EF88"
 msgid "Extraction"
-msgstr "Utvinning"
+msgstr ""
 
 #. Key:	064DA8A24E61C681BEE3ECAD2E32784F
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Quests_Story.DT_Quests_Story.TeobaldsTaxes.QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628(1).QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628.Description_38_B4D4042E40238C37995229BE10199447
 #: /Game/Blueprints/Quest/DT_Quests_Story.DT_Quests_Story.TeobaldsTaxes.QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628(1).QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628.Description_38_B4D4042E40238C37995229BE10199447
 msgctxt ",064DA8A24E61C681BEE3ECAD2E32784F"
 msgid "Of course, first I have to bring Gizela's three iron arrows. There is no way out, she doesn't seem like a person to discuss with."
-msgstr "Det är ju klart, jag måste ge Gizela tre järnpilar. Jag har inget annat val, för hon verkar inte vara en person man kan förhandla med."
+msgstr ""
 
 #. Key:	0659CAE048B59B0499A48A89080F1EA3
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Dalebor1_P3.D_MainQuest_Dalebor1_P3.Data(7).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Dalebor1_P3.D_MainQuest_Dalebor1_P3.Data(7).Data.Text
 msgctxt ",0659CAE048B59B0499A48A89080F1EA3"
 msgid "Bandits? Are we under attack? %MALE_TO_MALE%"
-msgstr "Banditer? Blir vi attakerade? %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	066DE43F43C76EF43075DDBE667AD65F
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Start_P3.D_MainQuest_Start_P3.Data(5).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Start_P3.D_MainQuest_Start_P3.Data(5).Data.Text
 msgctxt ",066DE43F43C76EF43075DDBE667AD65F"
 msgid "You mean, who is going around! Bandits, my boy, bandits and footpads! Most villages in the south, from Prague to the Posen, have problems with them. And we will be the next. This is something you cannot hold off with a simple palisade! %MALE_TO_MALE%"
-msgstr "Du menar vilka det är som rör sig där ute? Banditer, min pojk. Banditer och andra lyckosökare! De flesta byarna söderöver, från Prag till Posen, har problem med dem. Det är bara en tidsfråga innan de kommer hit. Vissa saker kan vi inte skrämma bort med enkla palissader. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0679056A42EF75CD2B145690FF7E66C6
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/IronShortage/D_IronShortage_End.D_IronShortage_End.Data(11).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/IronShortage/D_IronShortage_End.D_IronShortage_End.Data(11).Data.Text
 msgctxt ",0679056A42EF75CD2B145690FF7E66C6"
 msgid "Don't push it. I said quick, not much. %FEMALE_TO_MALE%"
-msgstr "Försök inte! Jag sade snabba, inte mycket. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	067DFD9A466318DED04228B44AE55CC0
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part2/D_MainStory_Karolina_P2.D_MainStory_Karolina_P2.Data(3).Data.Text
@@ -628,156 +595,153 @@ msgid ""
 "...the nephew of Iordan and now the inofficial right hand of the castellan. Well, your uncle probably wouldn't have approved what you are doing here... \r\n"
 "%FEMALE_TO_MALE%"
 msgstr ""
-"...Iordans brorson och skattmasens inofficiella, högra hand. Ja, din farbror hade vänt sig I graven om han bara visste vad du gjorde nu...\r\n"
-"%FEMALE_TO_MALE%"
 
 #. Key:	06813ADC4CF2AEF167EC21BE86DD8696
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part1/D_MainStory_Matilda_P1.D_MainStory_Matilda_P1.Data(1).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part1/D_MainStory_Matilda_P1.D_MainStory_Matilda_P1.Data(1).Data.Text
 msgctxt ",06813ADC4CF2AEF167EC21BE86DD8696"
 msgid "You must nearly be starved after all that hard work! Here, a hearty potage ... %FEMALE_TO_MALE%"
-msgstr "Du måste vara vrålhungrig efter allt det där hårda arbetet! Här har du en mustig soppa ... %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0687CAD74812FD8E8C1098A705212771
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_NPC2.D_SewMe_NPC2.Data(3).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_NPC2.D_SewMe_NPC2.Data(3).Data.Text
 msgctxt ",0687CAD74812FD8E8C1098A705212771"
 msgid "What does she want!? Is this some sort of trick? %FEMALE_TO_MALE%"
-msgstr "Vad vill hon? Är det här något slags påhitt? %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0698A2D24CD24218AF6713A14C05572F
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Quests_Generated.DT_Quests_Generated.DessertTime.Description_8_CDF99D7C4F708C33E5AB71AF2F79099F
 #: /Game/Blueprints/Quest/DT_Quests_Generated.DT_Quests_Generated.DessertTime.Description_8_CDF99D7C4F708C33E5AB71AF2F79099F
 msgctxt ",0698A2D24CD24218AF6713A14C05572F"
 msgid "I have to give a few people some food prepared by the innkeeper."
-msgstr "Jag behöver dela ut litet mat, ordnat av värdshusvärdinnan, till några personer."
+msgstr ""
 
 #. Key:	069D2DF449AFF3BD110597BB4E4E0CB6
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/MineBear/D_MineBear_Start.D_MineBear_Start.Data(0).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/MineBear/D_MineBear_Start.D_MineBear_Start.Data(0).Data.Text
 msgctxt ",069D2DF449AFF3BD110597BB4E4E0CB6"
 msgid "Start"
-msgstr "Börja"
+msgstr ""
 
 #. Key:	06C51C304C36FF62DD7AC9B2290BC959
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part2/D_MainStory_Irmina1_P2.D_MainStory_Irmina1_P2.Data(5).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part2/D_MainStory_Irmina1_P2.D_MainStory_Irmina1_P2.Data(5).Data.Text
-#, fuzzy
 msgctxt ",06C51C304C36FF62DD7AC9B2290BC959"
 msgid "She takes care of father, and has the last say in everything. However, I take care of the stash. Which should be so heavy that even you couldn't carry it, if the gods were just. Unfortunately it is as light as the feathers of my chickens. %FEMALE_TO_MALE%"
-msgstr "Hon tar hand om vår far och har sista ordet i allt. Men jag tar hand om vår lilla gömma. Om gudarna vore nådiga skulle den vara så tung att vi inte kunde lyfta den. Dessvärre så är den lätt som en fjäder från en av mina höns. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	06C815E24CDEF01BFFB998A8AC00906B
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_Start.D_SewMe_Start.Data(7).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_Start.D_SewMe_Start.Data(7).Data.Text
 msgctxt ",06C815E24CDEF01BFFB998A8AC00906B"
 msgid "I'm going to give you my latest work that I just crafted. You are going to the other village and show it to that fraud there. Tell her, it's the best you've ever seen. %FEMALE_TO_MALE%"
-msgstr "Jag ska ge dig mitt senaste verk som jag har sytt. Ta med detta och visa upp för den där bluffmakaren i den andra byn. Berätta för henne att mitt verk är det bästa du någonsin sett. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	06DF8B544289E5C16E5A71866CED0AA2
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Survival/StarvingHunter/D_StarvingHunter_Start.D_StarvingHunter_Start.Data(1).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Survival/StarvingHunter/D_StarvingHunter_Start.D_StarvingHunter_Start.Data(1).Data.Text
 msgctxt ",06DF8B544289E5C16E5A71866CED0AA2"
 msgid "My family is starving. I couldn’t manage to hunt any animals to provide them food. We also don’t have any coins to buy some. Please, bring us some food. I can reward you with some survial knowlage I picked up. %MALE_TO_MALE%"
-msgstr "Min familj svälter. Jag har inte lyckats jaga något vilt. Vi har heller inte råd att köpa mat. Om du ger oss mat så kan jag i utbyte lära dig ett par överlevnadsknep som jag plockat upp. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	06EA72AA42145553373453A0CDC3490A
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_Knowledge.DT_Knowledge.Food.Description_10_392D71714A23570CAE6F60BA7A5BA709
 #: /Game/Blueprints/DataTables/DT_Knowledge.DT_Knowledge.Food.Description_10_392D71714A23570CAE6F60BA7A5BA709
 msgctxt ",06EA72AA42145553373453A0CDC3490A"
 msgid "Food is an essential parameter for life and without it, HP drops. You must eat to restore it. Initially, you can hunt animals for meat, but raw meat can cause poisoning. In spring, morel mushrooms are edible and can be found in the forests, but unripe berries can cause poisoning. In summer, the berries are ripe and good to eat, and in the fall there is a much larger selection of mushrooms, but you need to be careful with the poisonous ones."
-msgstr "Mat är en viktig parameter för välmående och utan mat sjunker HP. Du måste äta för att återfå hälsopoäng. Till en början kan du jaga vilt för kött, men rått kött kan orsaka matförgiftning. På våren finns ätbara toppmurklor som går att hitta i skogen. Bär hittas också i skogen, men omogna bär kan orsaka matförgiftning. På sommaren är bären mogna och på hösten finns det ett större utbud av olika svampar. Men du måste vara försiktig med vilka som går att äta och vilka som är giftiga."
+msgstr ""
 
 #. Key:	07083367439A788F33C623BB65497A82
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Building/Renovation/D_Renovation_Start.D_Renovation_Start.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Building/Renovation/D_Renovation_Start.D_Renovation_Start.Data(2).Data.Text
 msgctxt ",07083367439A788F33C623BB65497A82"
 msgid "Sure thing. %MALE_TO_MALE%"
-msgstr "Jajemen. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	07085080456813121AA907951C80E5A7
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_QuestHint_P4.D_MainStory_QuestHint_P4.Data(4).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_QuestHint_P4.D_MainStory_QuestHint_P4.Data(4).Data.Text
 msgctxt ",07085080456813121AA907951C80E5A7"
 msgid "You should head to the hunting lodge, my friend. Sambor is looking for you - and he is not the man you should keep waiting. "
-msgstr "Min vän, du borde bege dig mot jaktstugan. Sambor letar efter dig - och han är inte en man som gillar att vänta. "
+msgstr ""
 
 #. Key:	0732104B4F015406F5299DA695A5F1A2
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part10/D_Alwin_Sambor_P10_1.D_Alwin_Sambor_P10_1.Data(12).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part10/D_Alwin_Sambor_P10_1.D_Alwin_Sambor_P10_1.Data(12).Data.Text
 msgctxt ",0732104B4F015406F5299DA695A5F1A2"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 #. Key:	075594404634724DC3AE95AC3124A089
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/HighValueItem/D_HighValueItem_Start.D_HighValueItem_Start.Data(4).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/HighValueItem/D_HighValueItem_Start.D_HighValueItem_Start.Data(4).Data.Text
 msgctxt ",075594404634724DC3AE95AC3124A089"
 msgid "Sorry, not right now. %MALE_TO_FEMALE%"
-msgstr "Tyvärr, inte just nu. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	07598740420A879C8E481190B807A29C
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Kinga/Part4/D_Kinga_Oda_P4.D_Kinga_Oda_P4.Data(0).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Kinga/Part4/D_Kinga_Oda_P4.D_Kinga_Oda_P4.Data(0).Data.Text
 msgctxt ",07598740420A879C8E481190B807A29C"
 msgid "Start"
-msgstr "Börja"
+msgstr ""
 
 #. Key:	07ABC8CD4FD7DC95E46557A1DC4AA1B7
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_Start.D_SewMe_Start.Data(9).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_Start.D_SewMe_Start.Data(9).Data.Text
 msgctxt ",07ABC8CD4FD7DC95E46557A1DC4AA1B7"
 msgid "Sorry, I don't have time for that. %MALE_TO_FEMALE%"
-msgstr "Tyvärr, jag har inte tid med det där. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	07D6B16B4EFCA6166A511F90F4217F9B
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part1/D_MainStory_Sambor_P1.D_MainStory_Sambor_P1.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part1/D_MainStory_Sambor_P1.D_MainStory_Sambor_P1.Data(2).Data.Text
 msgctxt ",07D6B16B4EFCA6166A511F90F4217F9B"
 msgid "I am Racimir, Iordans nephew. I heard, you have concerns regarding the wolves ... %MALE_TO_MALE%"
-msgstr "Jag heter Racimir, Iordans brorson. Jag hörde att du är orolig över vargarna i området... %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	07D9491047A53FAFAA121F9FE2A572DF
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/BusinessOfWar/D_Herald_BusinessOfWar_Start.D_Herald_BusinessOfWar_Start.Data(3).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/BusinessOfWar/D_Herald_BusinessOfWar_Start.D_Herald_BusinessOfWar_Start.Data(3).Data.Text
 msgctxt ",07D9491047A53FAFAA121F9FE2A572DF"
 msgid "We have other expenses right now. %MALE_TO_MALE%"
-msgstr "Vi har andra utgifter just nu. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0803967C49117739160413BF32DA930C
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_Events.DT_Events.MoodyVillagers.EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0(1).EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0.ButtonDescription_9_61B964E048FE8FD3F7DCE29EF8954C07
 #: /Game/Blueprints/DataTables/DT_Events.DT_Events.MoodyVillagers.EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0(1).EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0.ButtonDescription_9_61B964E048FE8FD3F7DCE29EF8954C07
 msgctxt ",0803967C49117739160413BF32DA930C"
 msgid "Try talking with them."
-msgstr "Försök prata med dem."
+msgstr ""
 
 #. Key:	081DACE948E849A7EABF74940A0360FA
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/Beggar/D_Beggar_End.D_Beggar_End.Data(1).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/Beggar/D_Beggar_End.D_Beggar_End.Data(1).Data.Text
 msgctxt ",081DACE948E849A7EABF74940A0360FA"
 msgid "You are back! Tell me you have it, because I don't have much more time left. %FEMALE_TO_MALE%"
-msgstr "Du är tillbaka! Säg att du har det, för jag har inte så mycket tid kvar. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0822D2C049E0587E0E22069FAE075BF0
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Gizela1_P4.D_MainStory_Gizela1_P4.Data(3).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Gizela1_P4.D_MainStory_Gizela1_P4.Data(3).Data.Text
 msgctxt ",0822D2C049E0587E0E22069FAE075BF0"
 msgid "Yeah, what is it this time? More taxes for Uniegost? %FEMALE_TO_MALE%"
-msgstr "Ja, vad är det den här gången? Mer skatt till Uniegost? %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	082979B44D51C633816F42A4750F96FB
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Gizela1_P4.D_MainStory_Gizela1_P4.Data(12).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Gizela1_P4.D_MainStory_Gizela1_P4.Data(12).Data.Text
 msgctxt ",082979B44D51C633816F42A4750F96FB"
 msgid "You have my word, I can put up a good fight if needed. Although I don`t want to. If push comes to shove, I have Sambors bow, too. %MALE_TO_FEMALE%"
-msgstr "Du har mitt ord på att jag kan kämpa om det behövs. Helst så vill jag inte behöva göra det. Men om det väl kommer till kritan så har jag Sambors båge också. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	0858D8B342E8D384F5B77FAFDEDBC7BB
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Start_P4.D_MainStory_Start_P4.Data(26).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Start_P4.D_MainStory_Start_P4.Data(26).Data.Text
 msgctxt ",0858D8B342E8D384F5B77FAFDEDBC7BB"
 msgid "...yes? %MALE_TO_MALE%"
-msgstr "...ja? %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	085DD46A4419660D7EF2ED913672F730
 #. SourceLocation:	/Game/Blueprints/UI/RadialMenu/Building/UI_RadialSegment.UI_RadialSegment_C:SetBuildingModificationModeStats [Script Bytecode]
@@ -792,7 +756,7 @@ msgstr ""
 #: /Game/Blueprints/Quest/DT_Quests_Generated.DT_Quests_Generated.Thirst.Name_3_5D2BD6C041E961D204DEE58649580481
 msgctxt ",088891AF44983441608C48BBD7404B41"
 msgid "Thirst"
-msgstr "Törst"
+msgstr ""
 
 #. Key:	0889925B405E1CFEA682CD80F2E953FB
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_Knowledge.DT_Knowledge.Challenges.Description_10_392D71714A23570CAE6F60BA7A5BA709
@@ -806,141 +770,140 @@ msgstr ""
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part1/D_MainStory_Sambor_P1.D_MainStory_Sambor_P1.Data(10).Data.Text
 msgctxt ",089C7FB74932DB5A060BE6BC440C49EF"
 msgid "Shall we kill them? %MALE_TO_MALE%"
-msgstr "Ska vi döda dem? %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	08B402DD4023DC8F5EBAAF82A4A22FEA
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Survival/StarvingHunter/D_StarvingHunter_End.D_StarvingHunter_End.Data(1).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Survival/StarvingHunter/D_StarvingHunter_End.D_StarvingHunter_End.Data(1).Data.Text
 msgctxt ",08B402DD4023DC8F5EBAAF82A4A22FEA"
 msgid "Hi. %MALE_TO_MALE%"
-msgstr "Tjena. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	08BD0C3B44BAE62E10FA879F2741EC73
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Oskar_P3.D_MainQuest_Oskar_P3.Data(5).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Oskar_P3.D_MainQuest_Oskar_P3.Data(5).Data.Text
 msgctxt ",08BD0C3B44BAE62E10FA879F2741EC73"
 msgid "If you would lead the watch, I might sign up. But not for Uniegost. %MALE_TO_MALE%"
-msgstr "Om det var du som ledde vaktstyrkan så skulle jag nog gå med. Men inte för Uniegost. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	08C0BD874EC03566CA494EA32E538BC2
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/NeedToFeed/D_Herald_NeedToFeed_Start.D_Herald_NeedToFeed_Start.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/NeedToFeed/D_Herald_NeedToFeed_Start.D_Herald_NeedToFeed_Start.Data(2).Data.Text
 msgctxt ",08C0BD874EC03566CA494EA32E538BC2"
 msgid "We'll help with as much food as we can. %MALE_TO_MALE%"
-msgstr "Vi kommer hjälpa till med så mycket mat som vi kan undanvara. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	08CF014C4EB9835B06BD89B6847155F2
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Questss.DT_Questss.ChapterVI.Description_8_CDF99D7C4F708C33E5AB71AF2F79099F
 #: /Game/Blueprints/Quest/DT_Questss.DT_Questss.ChapterVI.Description_8_CDF99D7C4F708C33E5AB71AF2F79099F
 msgctxt ",08CF014C4EB9835B06BD89B6847155F2"
 msgid "I am ready. For a real hunting challenge ... A bow and a varied big game. Just me and the wilderness."
-msgstr "Jag är redo för en riktig jaktutmaning! Tänk alltså, en båge och olika vilt. Bara jag och det vilda."
+msgstr ""
 
 #. Key:	08D1ED9742B063D63615329A68B7A07C
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/Convince/LoyaltyCrown/D_Herald_LoyaltyCrown_End.D_Herald_LoyaltyCrown_End.Data(1).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/Convince/LoyaltyCrown/D_Herald_LoyaltyCrown_End.D_Herald_LoyaltyCrown_End.Data(1).Data.Text
 msgctxt ",08D1ED9742B063D63615329A68B7A07C"
 msgid "How did it go? %MALE_TO_MALE%"
-msgstr "Hur gick det? %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	08FF8F804E72FB219321988E692B70EA
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Quests_Generated.DT_Quests_Generated.IronShortage.Description_8_CDF99D7C4F708C33E5AB71AF2F79099F
 #: /Game/Blueprints/Quest/DT_Quests_Generated.DT_Quests_Generated.IronShortage.Description_8_CDF99D7C4F708C33E5AB71AF2F79099F
 msgctxt ",08FF8F804E72FB219321988E692B70EA"
 msgid "The blacksmith is short on iron. I'm going to get some for him."
-msgstr "Smeden har ont om järn. Jag går och skaffar mer åt honom."
+msgstr ""
 
 #. Key:	090221D14CCB4218FEFC918A7FCC3FB2
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_Events.DT_Events.Thief.EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0(0).EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0.EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8(0).EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8.ChoiceConsequence_23_0DA8A7C64EBB7CAF5D87F3928EF75266
 #: /Game/Blueprints/DataTables/DT_Events.DT_Events.Thief.EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0(0).EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0.EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8(0).EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8.ChoiceConsequence_23_0DA8A7C64EBB7CAF5D87F3928EF75266
 msgctxt ",090221D14CCB4218FEFC918A7FCC3FB2"
 msgid "In anger you decide to punish the thief. You may have given him a lesson, but your villagers now perceive you as a cruel man."
-msgstr "I rent raseri bestämmer du dig för att bestraffa tjuven. Det må så vara att du gett honom en läxa, men byborna ser dig nu som en elak man."
+msgstr ""
 
 #. Key:	0926AF1F4DB14CEAA49547ADC1D614E5
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/SpareNoExpense/D_Herald_SpareNoExpense_End.D_Herald_SpareNoExpense_End.Data(1).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/SpareNoExpense/D_Herald_SpareNoExpense_End.D_Herald_SpareNoExpense_End.Data(1).Data.Text
 msgctxt ",0926AF1F4DB14CEAA49547ADC1D614E5"
 msgid "I can already smell the food. %MALE_TO_MALE%"
-msgstr "Jag kan redan känna doften av maten. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	09473494429DC42D6F53409A71590639
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/StoneByStone/D_Herald_StoneByStone_End.D_Herald_StoneByStone_End.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/StoneByStone/D_Herald_StoneByStone_End.D_Herald_StoneByStone_End.Data(2).Data.Text
 msgctxt ",09473494429DC42D6F53409A71590639"
 msgid "No problem, I'm glad I was able to help. %MALE_TO_MALE%"
-msgstr "Det var så litet så. Jag är glad att jag kunde hjälpa till. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	098710BB4C45C763190C03BA3BA9A2D5
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part8/D_Alwin_Start_P8.D_Alwin_Start_P8.Data(1).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part8/D_Alwin_Start_P8.D_Alwin_Start_P8.Data(1).Data.Text
 msgctxt ",098710BB4C45C763190C03BA3BA9A2D5"
 msgid "How is it going with your practices? %MALE_TO_MALE%"
-msgstr "Hur går det med övandet? %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	09AC04AE442A1413CDACC38A03CDDD58
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/Chapters/StartOfANewLife/D_StartOfANewLife.D_StartOfANewLife.Data(19).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/Chapters/StartOfANewLife/D_StartOfANewLife.D_StartOfANewLife.Data(19).Data.Text
 msgctxt ",09AC04AE442A1413CDACC38A03CDDD58"
 msgid "Racimir is my name, and I came from the south looking for my uncle Iordan. I was told he lives around here. %MALE_TO_MALE%"
-msgstr "Mitt namn är Racimir. Jag kom genom bergen i söder och letar efter min farbror Iordan. Det har sagts till mig att han bor här i närheten. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	09AFCAAA4F17FA06D317B1B83D8B913C
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_ListOfBuildings.DT_ListOfBuildings.Tavern2.Description_15_D6076A164E280AD2D7A5C99914C7C764
 #: /Game/Blueprints/DataTables/DT_ListOfBuildings.DT_ListOfBuildings.Tavern2.Description_15_D6076A164E280AD2D7A5C99914C7C764
 msgctxt ",09AFCAAA4F17FA06D317B1B83D8B913C"
 msgid "A worker building for cooking and baking. It has also a workstation for cooking, baking and a bigger storage than the lower versions and more worker slots."
-msgstr "En arbetsbyggnad för matlagning och bakning. Det finns arbetsstationer för matlagning, bakning och har större lager än de lägre versionerna och fler arbetsplatser."
+msgstr ""
 
 #. Key:	09CD043C4FE6D1FE644E03B44AFF5B4D
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/MineBear/D_MineBear_End.D_MineBear_End.Data(4).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/MineBear/D_MineBear_End.D_MineBear_End.Data(4).Data.Text
 msgctxt ",09CD043C4FE6D1FE644E03B44AFF5B4D"
 msgid "Thank you. %MALE_TO_MALE%"
-msgstr "Tackar. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	09DA63F94ECAC64A1C9CB1B8979C173D
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(41).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(41).Data.Text
 msgctxt ",09DA63F94ECAC64A1C9CB1B8979C173D"
 msgid "How's the job? I hope, you're doing alright."
-msgstr "Hur går det med arbetet? Hoppas att det går vägen."
+msgstr ""
 
 #. Key:	09E221A9460D5D367CE6639254B58417
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_ListOfBuildings.DT_ListOfBuildings.GooseHouse.Description_15_D6076A164E280AD2D7A5C99914C7C764
 #: /Game/Blueprints/DataTables/DT_ListOfBuildings.DT_ListOfBuildings.GooseHouse.Description_15_D6076A164E280AD2D7A5C99914C7C764
 msgctxt ",09E221A9460D5D367CE6639254B58417"
 msgid "Animal building for geese. The fed geese provide eggs and feathers. An employed animal keeper keeps them fed and also collects eggs and feathers."
-msgstr "En byggnad för gäss. Utfodrade gäss ger ägg och fjädrar. En anställd dräng eller piga sköter utfodring och samlar också in äggen och fjädrarna."
+msgstr ""
 
 #. Key:	09E8B66B474A6593474B018474154CD6
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/ShoesForAWedding/D_ShoesForAWedding_end.D_ShoesForAWedding_End.Data(4).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/ShoesForAWedding/D_ShoesForAWedding_end.D_ShoesForAWedding_End.Data(4).Data.Text
 msgctxt ",09E8B66B474A6593474B018474154CD6"
 msgid "And of course here is your reward. %FEMALE_TO_MALE%"
-msgstr "Självklart, här är din belöning. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	09EE759346BC7F1DA9A824A4A2BF7BAB
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Quests_Story.DT_Quests_Story.AlwinsStoryIX.QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628(2).QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628.Description_38_B4D4042E40238C37995229BE10199447
 #: /Game/Blueprints/Quest/DT_Quests_Story.DT_Quests_Story.AlwinsStoryIX.QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628(2).QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628.Description_38_B4D4042E40238C37995229BE10199447
 msgctxt ",09EE759346BC7F1DA9A824A4A2BF7BAB"
 msgid "Does Alwin's story end this way? It's hard to imagine that it's been so long since I helped him to repair his scythe. He had come such a long way to give up finally? Will I let him end this way?"
-msgstr "Slutar Alwins berättelse så här? Det är svårt att tänka sig att det varit så länge sedan som jag hjälpte honom att reparera hans lie. Har han kommit så här långt för att bara ge upp? Ska jag låta honom ge upp?"
+msgstr ""
 
 #. Key:	09EE9E8D4A8073F0BC3A2A983AB80DEA
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/Convince/D_Herald_Convince_NPC_Generic.D_Herald_Convince_NPC_Generic.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/Convince/D_Herald_Convince_NPC_Generic.D_Herald_Convince_NPC_Generic.Data(2).Data.Text
-#, fuzzy
 msgctxt ",09EE9E8D4A8073F0BC3A2A983AB80DEA"
 msgid "The king wants us to work harder. I believe he has a good reason to ask us of that. %MALE_TO_MALE%"
-msgstr "Kungen vill att vi arbetar längre. Jag tror att han har goda anledningar att be oss göra det. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	09FC9F4C4710E6E442511D8129F6F13A
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Challenges.DT_Challenges.ColdWar.Name_3_5D2BD6C041E961D204DEE58649580481
 #: /Game/Blueprints/Quest/DT_Challenges.DT_Challenges.ColdWar.Name_3_5D2BD6C041E961D204DEE58649580481
 msgctxt ",09FC9F4C4710E6E442511D8129F6F13A"
 msgid "Cold war"
-msgstr "Kalla kriget"
+msgstr ""
 
 #. Key:	09FFB38040F9BC09C54886848F8E58AB
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part2/D_MainStory_Karolina_P2.D_MainStory_Karolina_P2.Data(12).Data.Text
@@ -950,29 +913,27 @@ msgid ""
 "Whatever. I would give you the coins, but since I married Leonard, my wealth has dwindled misteriously. Whenever I sell some goods, the money is gone soon after. But I assume you know Dagobert in Denica? \r\n"
 "%FEMALE_TO_MALE%"
 msgstr ""
-"Vilket som. Jag hade gärna betalat, men eftersom jag är gift med Leonard så har min lilla förmögenhet mystiskt sinat. Så fort jag säljer något så försvinner inkomsten tätt därefter. Men jag antar att du känner Dagobert I Denica?\r\n"
-"%FEMALE_TO_MALE%"
 
 #. Key:	0A291ABC456BAEAFA0E29EB360C492E7
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(60).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(60).Data.Text
 msgctxt ",0A291ABC456BAEAFA0E29EB360C492E7"
 msgid "I'm fine."
-msgstr "Jag mår bra."
+msgstr ""
 
 #. Key:	0A2EDE8A480F77BEBFF0CF99DB4F3CE2
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(130).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(130).Data.Text
 msgctxt ",0A2EDE8A480F77BEBFF0CF99DB4F3CE2"
 msgid "I'm doing fine, thank you for the offer. %FEMALE_TO_MALE%"
-msgstr "Det går bra för mig. Tack för att du frågade. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0A5DA96445F3F580195B738EFF5C2340
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part1/D_MainStory_Uniegost_P1.D_MainStory_Uniegost_P1.Data(4).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part1/D_MainStory_Uniegost_P1.D_MainStory_Uniegost_P1.Data(4).Data.Text
 msgctxt ",0A5DA96445F3F580195B738EFF5C2340"
 msgid "What will you do? %MALE_TO_MALE%"
-msgstr "Vad tänkte du göra? %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0A8BEB3F40FE2E61F91CB89C41068571
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Nieluba1_P3.D_MainQuest_Nieluba1_P3.Data(4).Data.Text
@@ -982,363 +943,345 @@ msgid ""
 "Actually, that is not true. He just signed up for the night watch.\r\n"
 "(LIE) %MALE_TO_FEMALE%"
 msgstr ""
-"Ja alltså, det där är inte sant. Han gick precis med I vaktstyrkan\r\n"
-"(Lögn) %MALE_TO_FEMALE%"
 
 #. Key:	0AA02C40459D9F4BDCE557915A49BF9E
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/BerryJuice/D_BerryJuice_End.D_BerryJuice_End.Data(6).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/BerryJuice/D_BerryJuice_End.D_BerryJuice_End.Data(6).Data.Text
 msgctxt ",0AA02C40459D9F4BDCE557915A49BF9E"
 msgid "You have a keen eye. Here are the berries. %MALE_TO_FEMALE%"
-msgstr "Du har skarpa ögon. Här har du bären. %MALE_TO_FEMALE%"
+msgstr ""
 
-# "a new face" and "you don't look familiar" kind of sounmds the same.
-# Fixed it in Swedish.
 #. Key:	0AFC5E6A40D06A03F292CBA2897EDE4B
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Kinga/Part1/D_Kinga_Introduction.D_Kinga_Introduction.Data(3).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Kinga/Part1/D_Kinga_Introduction.D_Kinga_Introduction.Data(3).Data.Text
-#, fuzzy
 msgctxt ",0AFC5E6A40D06A03F292CBA2897EDE4B"
 msgid "Oh, a new face around here! What a rare sight. You don't look familiar at all - are you lost? %FEMALE_TO_MALE%"
-msgstr "Åh, du var mig en ovanlig syn. Du ser inte alls bekant ut - är du vilse? %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0B0A5C794541BE6BFA6D41B3E9E2C502
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part1/D_MainStory_Dagobert1_P1.D_MainStory_Dagobert1_P1.Data(3).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part1/D_MainStory_Dagobert1_P1.D_MainStory_Dagobert1_P1.Data(3).Data.Text
 msgctxt ",0B0A5C794541BE6BFA6D41B3E9E2C502"
 msgid "I am a messenger from Uniegost! %MALE_TO_MALE%"
-msgstr "Jag är ett sändebud från Uniegost! %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0B274E594B3B46CAF67C20AFA340ED49
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part9/D_Alwin_Lost_P9.D_Alwin_Lost_P9.Data(4).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part9/D_Alwin_Lost_P9.D_Alwin_Lost_P9.Data(4).Data.Text
 msgctxt ",0B274E594B3B46CAF67C20AFA340ED49"
 msgid "I’ll come back later. %MALE_TO_MALE%"
-msgstr "Jag kommer tillbaka en annan gång. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0B27747C43BA5761E4A1CC96DE60BCE4
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(151).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(151).Data.Text
 msgctxt ",0B27747C43BA5761E4A1CC96DE60BCE4"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #. Key:	0B395B8A410BEB5386ED36AEB15560E1
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Building/WoodcutterChallange/D_WoodcutterChallange_End.D_WoodcutterChallange_End.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Building/WoodcutterChallange/D_WoodcutterChallange_End.D_WoodcutterChallange_End.Data(2).Data.Text
 msgctxt ",0B395B8A410BEB5386ED36AEB15560E1"
 msgid "Thank you and I'm always ready to learn. %MALE_TO_MALE%"
-msgstr "Tack ska du ha. Jag är alltid villig att lära mig något nytt. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0B43CB804A898D30223B5AAE13A785DD
 #. SourceLocation:	/Game/Blueprints/Crafting/DT_CraftingCategories.DT_CraftingCategories.StoneTools.CategoryDescription_5_7353700F498716505EDAFD80337A80C7
 #: /Game/Blueprints/Crafting/DT_CraftingCategories.DT_CraftingCategories.StoneTools.CategoryDescription_5_7353700F498716505EDAFD80337A80C7
 msgctxt ",0B43CB804A898D30223B5AAE13A785DD"
 msgid "Crafting various stone tools."
-msgstr "Tillverka diverse stenverktyg."
+msgstr ""
 
 #. Key:	0B561BD34ECEF2A9D959CF805338FA0C
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/Thirst/D_Thirst_End.D_Thirst_End.Data(3).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/Thirst/D_Thirst_End.D_Thirst_End.Data(3).Data.Text
 msgctxt ",0B561BD34ECEF2A9D959CF805338FA0C"
 msgid "Thanks, this will help me with my work. Here, this is for your trouble. %MALE_TO_MALE%"
-msgstr "Tack, detta kommer hjälpa mig i mitt arbete. Här får du för besväret. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0B607A384F6D69DEBFEB25B1B58D8DA6
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_NPC2.D_SewMe_NPC2.Data(6).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_NPC2.D_SewMe_NPC2.Data(6).Data.Text
 msgctxt ",0B607A384F6D69DEBFEB25B1B58D8DA6"
 msgid "What ... I ... Well ... Maybe you're right, and this rivalry of ours has been going long enough ... %FEMALE_TO_MALE%"
-msgstr "Vad ... jag ... alltså ... Kanske har du rätt. Kanske har den här rivaliteten pågått länge nog nu ... %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0B64F2AC43DD5F3271174D979846B7ED
 #. SourceLocation:	/Game/Blueprints/UI/Event/UI_MasterEvent.UI_MasterEvent_C:WidgetTree.txt_TabName.Text
 #: /Game/Blueprints/UI/Event/UI_MasterEvent.UI_MasterEvent_C:WidgetTree.txt_TabName.Text
 msgctxt ",0B64F2AC43DD5F3271174D979846B7ED"
 msgid "Effects for this season"
-msgstr "Effekter för den här säsongen"
+msgstr ""
 
 #. Key:	0B69AC9B4DC314A82A1C828761CB436D
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/DessertTime/D_DessertTime_End.D_DessertTime_End.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/DessertTime/D_DessertTime_End.D_DessertTime_End.Data(2).Data.Text
-#, fuzzy
 msgctxt ",0B69AC9B4DC314A82A1C828761CB436D"
 msgid "I've delivered all the meals. %MALE_TO_FEMALE%"
-msgstr "Jag har levererat all mat. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	0B6D9CBD407732D067A6758577367DE7
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/FoodProcessing/D_FoodProcessing_End.D_FoodProcessing_End.Data(9).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/FoodProcessing/D_FoodProcessing_End.D_FoodProcessing_End.Data(9).Data.Text
 msgctxt ",0B6D9CBD407732D067A6758577367DE7"
 msgid "No problem, thank you. %MALE_TO_FEMALE%"
-msgstr "Inga problem, tack ska du ha. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	0B8F8E154A8F3C86215309B337F21052
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(6).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(6).Data.Text
 msgctxt ",0B8F8E154A8F3C86215309B337F21052"
 msgid "I want to tell you something, beautiful lady."
-msgstr "Jag vill berätta något för dig, fagra mö."
+msgstr ""
 
 #. Key:	0BC00BA3430EB276F1901DB6BB16EE6A
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part3/D_Alwin_Start_P3.D_Alwin_Start_P3.Data(6).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part3/D_Alwin_Start_P3.D_Alwin_Start_P3.Data(6).Data.Text
 msgctxt ",0BC00BA3430EB276F1901DB6BB16EE6A"
 msgid "I actually could use some help. To the west of here is a village where they have a sewing. %MALE_TO_MALE%"
-msgstr "Jag skulle faktiskt kunna behöva litet hjälp. Västerut har de en by där de har en skräddare. %MALE_TO_MALE%"
+msgstr ""
 
-# "tavarn" is spelled wrong.
 #. Key:	0BC8CD4048157010648CA0BF11AE4905
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/DessertTime/D_DessertTime_Start.D_DessertTime_Start.Data(6).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/DessertTime/D_DessertTime_Start.D_DessertTime_Start.Data(6).Data.Text
-#, fuzzy
 msgctxt ",0BC8CD4048157010648CA0BF11AE4905"
 msgid "What a lovely day, wouldn't you agree? I prepared a meal for people in the village to promote my tavarn. Would you be interested in helping me delivere it to the people? %MALE_TO_MALE%"
-msgstr "Vilken underbar dag, tycker du inte så? Jag har ordnat med litet middagsmat till alla i byn för att gynna mitt värdshus. Skulle du vara intresserad av att hjälpa mig att leverara ut maten i byn? %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0BF13B9C470B5413EB5AFFA4DA18FEBF
 #. SourceLocation:	/Game/Blueprints/UI/MainMenu/UI_IntroScreen.UI_IntroScreen_C:WidgetTree.Text02.Text
 #: /Game/Blueprints/UI/MainMenu/UI_IntroScreen.UI_IntroScreen_C:WidgetTree.Text02.Text
 msgctxt ",0BF13B9C470B5413EB5AFFA4DA18FEBF"
 msgid "I used to have a simple life"
-msgstr "Jag brukade ha ett enkelt liv"
+msgstr ""
 
 #. Key:	0BF351EC478AA09821AD9E8F4985314F
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/DeliveryBoy/D_DeliveryBoy_NPC2.D_DeliveryBoy_NPC2.Data(4).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/DeliveryBoy/D_DeliveryBoy_NPC2.D_DeliveryBoy_NPC2.Data(4).Data.Text
 msgctxt ",0BF351EC478AA09821AD9E8F4985314F"
 msgid "Alright, see you. %MALE_TO_MALE%"
-msgstr "Ja men vi ses väl då. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0BFB404E4E7BAA4902969A84312FBD80
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/Convince/D_Herald_Convince_NPC_Generic.D_Herald_Convince_NPC_Generic.Data(8).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/Convince/D_Herald_Convince_NPC_Generic.D_Herald_Convince_NPC_Generic.Data(8).Data.Text
 msgctxt ",0BFB404E4E7BAA4902969A84312FBD80"
 msgid "The king wants us to work harder. I believe he has a good reason to ask us of that. %MALE_TO_FEMALE%"
-msgstr "Kungen vill att vi ska sätta manken till och arbeta mer. Jag antar att han har en god anledning till att begära det av oss. %MALE_TO_FEMALE%"
+msgstr ""
 
-# Odd english text.
 #. Key:	0C171D434156D822A0FC39B52490298D
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Kinga/Part2/D_Kinga_Dagobert_P2_2.D_Kinga_Dagobert_P2_2.Data(6).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Kinga/Part2/D_Kinga_Dagobert_P2_2.D_Kinga_Dagobert_P2_2.Data(6).Data.Text
-#, fuzzy
 msgctxt ",0C171D434156D822A0FC39B52490298D"
 msgid "Ha! You try to be generous without embarassing me. Don`t fool me, I can see that this craftmanship had it's price. Wait a second, I have something for you... %MALE_TO_MALE%"
-msgstr "Ha! Försöker du muntra upp mig? Skoja inte med mig. Jag kan se att det här hantverket har sitt pris. Vänta litet grann, jag har något till dig...%MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0C1825D947372D3218EDCFB137351484
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/Herald/D_Herald_Start.D_Herald_Start.Data(0).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/Herald/D_Herald_Start.D_Herald_Start.Data(0).Data.Text
 msgctxt ",0C1825D947372D3218EDCFB137351484"
 msgid "Start"
-msgstr "Börja"
+msgstr ""
 
 #. Key:	0C1DCA1A4F0547B26711CE8BE08F3AC9
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(101).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(101).Data.Text
 msgctxt ",0C1DCA1A4F0547B26711CE8BE08F3AC9"
 msgid "We should go out to have a lunch by the river sometime. I heard it's really pretty this time of the year. %MALE_TO_FEMALE%"
-msgstr "Vi borde ha en picknick vid floden en dag. Jag har hört att det är vackert vid den här tiden på året. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	0C2C983F4AF287E80444CBAAD3074022
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_ListOfBuildings.DT_ListOfBuildings.FoodStorage1.Description_15_D6076A164E280AD2D7A5C99914C7C764
 #: /Game/Blueprints/DataTables/DT_ListOfBuildings.DT_ListOfBuildings.FoodStorage1.Description_15_D6076A164E280AD2D7A5C99914C7C764
 msgctxt ",0C2C983F4AF287E80444CBAAD3074022"
 msgid "The village's main storage for food. It receives food collected in the Hunting Lodge, Fishing Hut, Barn and animal buildings. Inhabitants need this building to get food."
-msgstr "Byns primära lager för mat. Lagret fylls på med mat från Jaktstugan, Fiskeboden, Ladugården och från lantdjurens boningar. Byborna behöver den här byggnaden för att kunna få mat."
+msgstr ""
 
 #. Key:	0C33D706437CF5180EE9B5A3EE4D9131
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_Knowledge.DT_Knowledge.Seasons&Sleep.Description_10_392D71714A23570CAE6F60BA7A5BA709
 #: /Game/Blueprints/DataTables/DT_Knowledge.DT_Knowledge.Seasons&Sleep.Description_10_392D71714A23570CAE6F60BA7A5BA709
-#, fuzzy
 msgctxt ",0C33D706437CF5180EE9B5A3EE4D9131"
 msgid ""
 "There are four seasons - Spring, Summer, Autumn and Winter.\r\n"
 "\r\n"
 "The season changes automatically after three days. Many things depend on the seasons including the sowing and harvesting times for different cereals and vegetables, also the timing of the availability of wild food resources including berries and mushrooms. There are different temperatures during the various seasons, so you need to have suitable clothes ready for these. You can sleep in your bed or by the fire, between 7pm and 7am. Sleeping by the fire does not restore health. Sleeping in your bed restores your HP a little."
 msgstr ""
-"Det finns fyra säsonger - Vår, Sommar, Höst och Vinter.\r\n"
-"\r\n"
-"En säsong ändras automatiskt efter tre dagar. "
 
 #. Key:	0C46A7CD457F42ACFCB91DAC0B7783D9
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/OldRags/D_OldRags_Start.D_OldRags_Start.Data(4).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/OldRags/D_OldRags_Start.D_OldRags_Start.Data(4).Data.Text
 msgctxt ",0C46A7CD457F42ACFCB91DAC0B7783D9"
 msgid "Sure, why not. I have some spare time. %MALE_TO_FEMALE%"
-msgstr "Visst, varför inte. Jag har tid till övers. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	0C5010DA4BF05347E9F822AF48CECADA
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Dalebor1_P3.D_MainQuest_Dalebor1_P3.Data(6).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Dalebor1_P3.D_MainQuest_Dalebor1_P3.Data(6).Data.Text
 msgctxt ",0C5010DA4BF05347E9F822AF48CECADA"
 msgid "I am not sure. Isn`t that dangerous? %MALE_TO_MALE%"
-msgstr "Jag är inte riktigt säker. Är inte det där farligt?%MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0C8753C34AACFE184B80D3BDCDEC2326
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Dalebor1_P3.D_MainQuest_Dalebor1_P3.Data(12).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Dalebor1_P3.D_MainQuest_Dalebor1_P3.Data(12).Data.Text
 msgctxt ",0C8753C34AACFE184B80D3BDCDEC2326"
 msgid "Dobromira told me that in the towns watchmen get a fancy fur hood and small bag of coins, when they volunteer for the watch. If that is the case here, too, I am in. %MALE_TO_MALE%"
-msgstr "Jag fick höra av Dobromira att man I vaktstyrkan får en fin pälshuva och en liten pung med mynt I när man ställer upp med vakthållning. Om så är fallet så är jag är jag på. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0C933320408A5EFCDA1820AD24E925E0
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/Convince/D_Herald_Convince_NPC_Generic.D_Herald_Convince_NPC_Generic.Data(12).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/Convince/D_Herald_Convince_NPC_Generic.D_Herald_Convince_NPC_Generic.Data(12).Data.Text
 msgctxt ",0C933320408A5EFCDA1820AD24E925E0"
 msgid "Alright. %MALE_TO_FEMALE%"
-msgstr "Jadå. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	0CBE81014F00676D2202398C4B6DCE43
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_Start.D_SewMe_Start.Data(0).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_Start.D_SewMe_Start.Data(0).Data.Text
 msgctxt ",0CBE81014F00676D2202398C4B6DCE43"
 msgid "Start"
-msgstr "Börja"
+msgstr ""
 
 #. Key:	0CD3C87E4828058470585985556DA62E
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Quests_Generated.DT_Quests_Generated.MayItBurn.Description_8_CDF99D7C4F708C33E5AB71AF2F79099F
 #: /Game/Blueprints/Quest/DT_Quests_Generated.DT_Quests_Generated.MayItBurn.Description_8_CDF99D7C4F708C33E5AB71AF2F79099F
 msgctxt ",0CD3C87E4828058470585985556DA62E"
 msgid "They are freezing out there, I have to get them some firewood."
-msgstr "De fryser något så förfärligt. Jag behöver ordna fram ved åt dem."
+msgstr ""
 
 #. Key:	0CD5DAC04BF92016A3FD5BBE5B6E25B6
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(203).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(203).Data.Text
 msgctxt ",0CD5DAC04BF92016A3FD5BBE5B6E25B6"
 msgid "I really need a house. This is getting ridiculous..."
-msgstr "Jag behöver verkligen bygga mig ett hus. Detta börjar bli löjligt..."
+msgstr ""
 
 #. Key:	0D1726EF407DE5951454F189335BB94E
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Domastoj1_P3.D_MainQuest_Domastoj1_P3.Data(15).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_Domastoj1_P3.D_MainQuest_Domastoj1_P3.Data(15).Data.Text
 msgctxt ",0D1726EF407DE5951454F189335BB94E"
 msgid "Very well! But I still have to ask my mother first. Embarassing, isn`t it? %MALE_TO_MALE%"
-msgstr "Låt gå då! Men jag behöver ändå fråga min mor först. Pinsamt eller hur? %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0D1A26AD4E0FE70FFF4AA2AD96BCABC3
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part4/D_Alwin_End_P4.D_Alwin_End_P4.Data(1).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Alwin/Part4/D_Alwin_End_P4.D_Alwin_End_P4.Data(1).Data.Text
 msgctxt ",0D1A26AD4E0FE70FFF4AA2AD96BCABC3"
 msgid "I'm back. Here is your hoe. %MALE_TO_MALE%"
-msgstr "Jag är tillbaka. Här har du din hacka. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0D1BEA90441E6263343A28B0CEB787F4
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Questss.DT_Questss.ChapterI.QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628(0).QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628.ObjectiveGoals_6_6188896140ECEA7BA537D885228B6736(5).ObjectiveGoals_6_6188896140ECEA7BA537D885228B6736.VillageParameters_79_97BD1C044B1F69B7D334518FD26450D8.Goal_18_CEC9885644219766FE041C9B16AE3A1B
 #: /Game/Blueprints/Quest/DT_Questss.DT_Questss.ChapterI.QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628(0).QuestObjectives_42_A3C4FB214AAA7EAAF9CAAA849961E628.ObjectiveGoals_6_6188896140ECEA7BA537D885228B6736(5).ObjectiveGoals_6_6188896140ECEA7BA537D885228B6736.VillageParameters_79_97BD1C044B1F69B7D334518FD26450D8.Goal_18_CEC9885644219766FE041C9B16AE3A1B
 msgctxt ",0D1BEA90441E6263343A28B0CEB787F4"
 msgid "Build your first house:"
-msgstr "Bygg ditt första hus:"
+msgstr ""
 
 #. Key:	0D39951C446C46515A28F2B4E8E70A63
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Quests_Generated.DT_Quests_Generated.StarvingHunter.Name_3_5D2BD6C041E961D204DEE58649580481
 #: /Game/Blueprints/Quest/DT_Quests_Generated.DT_Quests_Generated.StarvingHunter.Name_3_5D2BD6C041E961D204DEE58649580481
 msgctxt ",0D39951C446C46515A28F2B4E8E70A63"
 msgid "Starving hunter"
-msgstr "Svältande jägare"
+msgstr ""
 
 #. Key:	0D726A4E43C304C9A0B17BA15CAB262C
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Crafting/LavishMeal/D_LavishMeal_End.D_LavishMeal_End.Data(3).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Crafting/LavishMeal/D_LavishMeal_End.D_LavishMeal_End.Data(3).Data.Text
-#, fuzzy
 msgctxt ",0D726A4E43C304C9A0B17BA15CAB262C"
 msgid "Ah! Thank you so much! I can show you a little bit about crafting as a way of thanking you. %FEMALE_TO_MALE%"
-msgstr "Åh! Tusen tack! För att visa min uppskattning lär jag dig gärna litet om hantverk. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0D7962B645DF2DB191E048B4904EEC7C
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/GreatFamine/D_Herald_GreatFamine_End.D_Herald_GreatFamine_End.Data(1).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/GreatFamine/D_Herald_GreatFamine_End.D_Herald_GreatFamine_End.Data(1).Data.Text
-#, fuzzy
 msgctxt ",0D7962B645DF2DB191E048B4904EEC7C"
 msgid "The king and many other villages will be very happy. %MALE_TO_MALE%"
-msgstr "Kungen och många andra byar kommer bli mycket glada. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0D93468A48F9ECD831EB629BEE2F13B6
 #. SourceLocation:	/Game/Blueprints/Crafting/DT_CraftingCategories.DT_CraftingCategories.HorseTack.CategoryDescription_5_7353700F498716505EDAFD80337A80C7
 #: /Game/Blueprints/Crafting/DT_CraftingCategories.DT_CraftingCategories.HorseTack.CategoryDescription_5_7353700F498716505EDAFD80337A80C7
 msgctxt ",0D93468A48F9ECD831EB629BEE2F13B6"
 msgid "Crafting various equipment for mounts."
-msgstr "Tillverka diverse utsustning för riddjur."
+msgstr ""
 
 #. Key:	0D9BD0254AC18B70E6C208AD5523DFAB
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(193).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(193).Data.Text
 msgctxt ",0D9BD0254AC18B70E6C208AD5523DFAB"
 msgid "Have you heard any gossips lately? %MALE_TO_MALE%"
-msgstr "Har du hört nått skvaller på sista tiden? %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0DA6DB464E30B880E070CF919BE0EBBE
 #. SourceLocation:	/Game/Blueprints/Crafting/DT_CraftingCategories.DT_CraftingCategories.Salting.CategoryName_3_E954F11A47D5F0012150239E4D293FC4
 #: /Game/Blueprints/Crafting/DT_CraftingCategories.DT_CraftingCategories.Salting.CategoryName_3_E954F11A47D5F0012150239E4D293FC4
 msgctxt ",0DA6DB464E30B880E070CF919BE0EBBE"
 msgid "Salting"
-msgstr "Salta"
+msgstr ""
 
 #. Key:	0DBF5748452FAD6B424A96B4BEEAE750
 #. SourceLocation:	/Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/AtBarricades/D_Herald_AtBarricades_Start.D_Herald_AtBarricades_Start.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/ChallengeDialogues/BringResources/AtBarricades/D_Herald_AtBarricades_Start.D_Herald_AtBarricades_Start.Data(2).Data.Text
 msgctxt ",0DBF5748452FAD6B424A96B4BEEAE750"
 msgid "I'll do my part. %MALE_TO_MALE%"
-msgstr "Lita på mig. Jag får det gjort. %MALE_TO_MALE%"
+msgstr ""
 
-# Is he giving her something or fixing something for her?
 #. Key:	0DC552F44BAA962ED19A80B149CEA853
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_End.D_SewMe_End.Data(9).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_End.D_SewMe_End.Data(9).Data.Text
 msgctxt ",0DC552F44BAA962ED19A80B149CEA853"
 msgid "Alright, here you go. %MALE_TO_FEMALE%"
-msgstr "Sådär, här har du. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	0E50D56F40B730C7EBE756BAF58E0A95
 #. SourceLocation:	/Game/Blueprints/Crafting/DT_CraftingCategories.DT_CraftingCategories.Cooking.CategoryDescription_5_7353700F498716505EDAFD80337A80C7
 #: /Game/Blueprints/Crafting/DT_CraftingCategories.DT_CraftingCategories.Cooking.CategoryDescription_5_7353700F498716505EDAFD80337A80C7
 msgctxt ",0E50D56F40B730C7EBE756BAF58E0A95"
 msgid "Cooking allows to make a variety of dishes from meat, fish, grains and vegetables."
-msgstr "Matlagning tillåter en variation av olika maträtter från kött, fisk, spannmål och grönsaker."
+msgstr ""
 
 #. Key:	0E77DEC142AA33A4E68CE184A771255F
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/MayItBurn/D_MayItBurn_End.D_MayItBurn_End.Data(5).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/MayItBurn/D_MayItBurn_End.D_MayItBurn_End.Data(5).Data.Text
 msgctxt ",0E77DEC142AA33A4E68CE184A771255F"
 msgid "You are back! I already feel the warmth coming from the fireplace. %FEMALE_TO_MALE%"
-msgstr "Du är tillbaka! Jag känner redan värmen från eldstaden. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0E8AC4F3479C449B45565E9207975E30
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Quests_Story.DT_Quests_Story.AlwinsStoryIX.Description_8_CDF99D7C4F708C33E5AB71AF2F79099F
 #: /Game/Blueprints/Quest/DT_Quests_Story.DT_Quests_Story.AlwinsStoryIX.Description_8_CDF99D7C4F708C33E5AB71AF2F79099F
 msgctxt ",0E8AC4F3479C449B45565E9207975E30"
 msgid "Alwin gave me a challenge - to hunt a bear in eight hours. It's going to be hard to even find one ... He gave me the hint to head southeast. He said that they like caves and have a water reservoir close by. Maybe near some lake in the mountains?"
-msgstr "Alwin gav mig en utmaning; att jaga en björn inom 8 timmar. Det kommer vara svårt att ens hitta en ... Han gav mig tipset att bege mig åt sydöst. Han sade att björn tycker om grottor och ha närhet till vatten. Kanske nära en sjö uppe i bergen?"
+msgstr ""
 
 #. Key:	0EC9CE2140B93FC1EFE09F8075C711C2
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_Events.DT_Events.NewsWar.EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0(2).EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0.EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8(0).EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8.ChoiceConsequence_23_0DA8A7C64EBB7CAF5D87F3928EF75266
 #: /Game/Blueprints/DataTables/DT_Events.DT_Events.NewsWar.EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0(2).EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0.EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8(0).EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8.ChoiceConsequence_23_0DA8A7C64EBB7CAF5D87F3928EF75266
 msgctxt ",0EC9CE2140B93FC1EFE09F8075C711C2"
 msgid "Everyone's a bit worried."
-msgstr "Alla är något oroliga."
+msgstr ""
 
 #. Key:	0ECBDEAD47136C91B3EDDD8FB14DC801
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/FamilyDispute/D_FamilyDispute_End.D_FamilyDispute_End.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/FamilyDispute/D_FamilyDispute_End.D_FamilyDispute_End.Data(2).Data.Text
 msgctxt ",0ECBDEAD47136C91B3EDDD8FB14DC801"
 msgid "Here is everything you asked for. %MALE_TO_MALE%"
-msgstr "Här har du allt som du ville ha. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0ED73EB34697FD38A639168C661DA27C
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Questss.DT_Questss.ChapterI.Name_3_5D2BD6C041E961D204DEE58649580481
 #: /Game/Blueprints/Quest/DT_Questss.DT_Questss.ChapterI.Name_3_5D2BD6C041E961D204DEE58649580481
 msgctxt ",0ED73EB34697FD38A639168C661DA27C"
 msgid "Chapter I - A new beginning"
-msgstr "Kapitel I - En ny början"
+msgstr ""
 
-# What are they talking about and in what context?
 #. Key:	0EE086EB44861779FF3D1AA51908BCB7
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/MineBear/D_MineBear_End.D_MineBear_End.Data(3).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/MineBear/D_MineBear_End.D_MineBear_End.Data(3).Data.Text
 msgctxt ",0EE086EB44861779FF3D1AA51908BCB7"
 msgid "That's great to hear. I will go back to work as soon as I can. Thank you, here are some coins and a few leftover ores I had lying around. %MALE_TO_MALE%"
-msgstr "Det där är fantastiska nyheter. Här får du några mynt och lite järn som tack för hjälpen.  Nu kan jag äntligen gå tillbaka till jobbet. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0F083FD145A0F7CDF4310E8EB4F4EECA
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/Chapters/StartOfANewLife/D_StartOfANewLife.D_StartOfANewLife.Data(30).Data.Text
@@ -1349,81 +1292,77 @@ msgid ""
 "what they owe your uncle - I have no intention to join them here.\r\n"
 "I am the castellan, and my word still carries weight. So, tell me, can you build your own fortune? %MALE_TO_MALE%"
 msgstr ""
-"Säg inte det! Jag skulle inte kasta bort Iordans brorson. Även om många bybor glömmer fort,\r\n"
-"det som de är skyldiga din farbror, så har jag ingen avsikt att glömma.\r\n"
-"Jag är skattmasen här, och mina ord väger tungt. Så berätta för mig, tror du att du kan bygga dig till förmögenhet?  %MALE_TO_MALE%"
 
 #. Key:	0F15D0084B595AE8C32C8CA1A031D84D
 #. SourceLocation:	/Game/Blueprints/Crafting/DT_CraftingCategories.DT_CraftingCategories.StoneTools.CategoryName_3_E954F11A47D5F0012150239E4D293FC4
 #: /Game/Blueprints/Crafting/DT_CraftingCategories.DT_CraftingCategories.StoneTools.CategoryName_3_E954F11A47D5F0012150239E4D293FC4
 msgctxt ",0F15D0084B595AE8C32C8CA1A031D84D"
 msgid "Stone Tools"
-msgstr "Stenverktyg"
+msgstr ""
 
 #. Key:	0F327E9844D2B0772B966280D6935414
 #. SourceLocation:	/Game/Blueprints/Quest/DT_Quests_Generated.DT_Quests_Generated.NightHunt.Name_3_5D2BD6C041E961D204DEE58649580481
 #: /Game/Blueprints/Quest/DT_Quests_Generated.DT_Quests_Generated.NightHunt.Name_3_5D2BD6C041E961D204DEE58649580481
 msgctxt ",0F327E9844D2B0772B966280D6935414"
 msgid "Night hunt"
-msgstr "Nattlig jakt"
+msgstr ""
 
 #. Key:	0F331B864519B0C53FC04E99992972D1
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/Kinga/Part2/D_Kinga_Dagobert_P2_2.D_Kinga_Dagobert_P2_2.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/Kinga/Part2/D_Kinga_Dagobert_P2_2.D_Kinga_Dagobert_P2_2.Data(2).Data.Text
 msgctxt ",0F331B864519B0C53FC04E99992972D1"
 msgid "Good news, Dagobert. I have some scissors for you. Your sheep look like you can use them... %MALE_TO_MALE%"
-msgstr "Goda nyheter, Dagobert. Jag har en sax till dig. Dina får ser ut att behöva den... %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0F393F03412A0D5ABD3C6BAC03AB60DA
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/BerryJuice/D_BerryJuice_Start.D_BerryJuice_Start.Data(4).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/BerryJuice/D_BerryJuice_Start.D_BerryJuice_Start.Data(4).Data.Text
 msgctxt ",0F393F03412A0D5ABD3C6BAC03AB60DA"
 msgid "Are you crazy? No way! There are dangerous animals out there! %MALE_TO_MALE%"
-msgstr "Är du helt från vettet? Aldrig i livet! Det finns farliga vilddjur där ute!  %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0F55CFF940550DA0083979A5E274ECCC
 #. SourceLocation:	/Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(172).Data.Text
 #: /Game/Blueprints/Dialogues/D_NPCBasic.D_NPCBasic.Data(172).Data.Text
 msgctxt ",0F55CFF940550DA0083979A5E274ECCC"
 msgid "Sorry, I need some time to think about what you've said previously. %FEMALE_TO_MALE%"
-msgstr "Hmm, låt mig få tänka på saken. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0F81942945E2858E470781AC94A876B0
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_NPC2.D_SewMe_NPC2.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/GeneratedQuests/SewMe/D_SewMe_NPC2.D_SewMe_NPC2.Data(2).Data.Text
 msgctxt ",0F81942945E2858E470781AC94A876B0"
 msgid "A seamster from another village asked me to come here and ... %MALE_TO_FEMALE%"
-msgstr "En sömmerska från en annan by bad mig komma hit och... %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	0F81AB1043047DF22EBD6E9281AB0121
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Start_P4.D_MainStory_Start_P4.Data(5).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part4/D_MainStory_Start_P4.D_MainStory_Start_P4.Data(5).Data.Text
 msgctxt ",0F81AB1043047DF22EBD6E9281AB0121"
 msgid "Thanks, I prefer standing anyway. What I don`t like, are bad news. %MALE_TO_MALE%"
-msgstr "Tack, men jag föredrar att stå ändå. Vad jag inte gillar är dåliga nyheter. %MALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0F846A454793550003CAE3A1C3D665BC
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part2/D_MainStory_Gizela1_P2.D_MainStory_Gizela1_P2.Data(2).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part2/D_MainStory_Gizela1_P2.D_MainStory_Gizela1_P2.Data(2).Data.Text
 msgctxt ",0F846A454793550003CAE3A1C3D665BC"
 msgid "Because Teobald sent me. He needs to know where the key for the stash is hidden. %MALE_TO_FEMALE%"
-msgstr "För Teobald skickade mig hit. Han behöver veta vart nyckeln till er hemliga gömma ligger. %MALE_TO_FEMALE%"
+msgstr ""
 
 #. Key:	0F88BE094F0031888412F0BB06CEA792
 #. SourceLocation:	/Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Survival/MushroomTreatment/D_MushroomTreatment_Start.D_MushroomTreatment_Start.Data(4).Data.Text
 #: /Game/Blueprints/Dialogues/QuestsDialogues/TechnologyQuests/Survival/MushroomTreatment/D_MushroomTreatment_Start.D_MushroomTreatment_Start.Data(4).Data.Text
 msgctxt ",0F88BE094F0031888412F0BB06CEA792"
 msgid "Yes, I do need help. I've not been feeling too well lately, I think I might be going down with something. Could you please bring me some mushrooms or herbs so I can make myself a family cure stew? %FEMALE_TO_MALE%"
-msgstr "Åh, jag skulle behöva litet hjälp. Jag har inte mått så bra det senaste. Jag tror att jag håller på att få feber eller något liknande. Skulle inte du kunna samla ihop ett par olika svampsorter eller örter så kan jag koka ihop en liten helande bryggd till mig. %FEMALE_TO_MALE%"
+msgstr ""
 
 #. Key:	0F92626949206ECA788B9CB1662CCA62
 #. SourceLocation:	/Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_JanQuestHint_P3.D_MainQuest_JanQuestHint_P3.Data(1).Data.Text
 #: /Game/Blueprints/Dialogues/StoryQuestDialogues/MainStory/Part3/D_MainQuest_JanQuestHint_P3.D_MainQuest_JanQuestHint_P3.Data(1).Data.Text
 msgctxt ",0F92626949206ECA788B9CB1662CCA62"
 msgid "Did you hear? Bandits have been spotted in the village just south of the mountains! I plan to join Uniegosts militia. Free local men, defending their village - they will love to have me in their ranks! %MALE_TO_MALE%"
-msgstr "Har du hört? Banditer har setts i byn som ligger precis på andra sidan bergen! Jag täntke gå med i Uniegosts milis. Fria män från trakten som beskyddar våra byar - de kommer älska att ha med mig i deras ranker! %MALE_TO_MALE%"
+msgstr ""
 
-# strange english scentence.
 #. Key:	0F927EB14C0CA030286A16806F5DD2B5
 #. SourceLocation:	/Game/Blueprints/DataTables/DT_Events.DT_Events.Thief.EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0(1).EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0.EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8(0).EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8.ChoiceConsequence_23_0DA8A7C64EBB7CAF5D87F3928EF75266
 #: /Game/Blueprints/DataTables/DT_Events.DT_Events.Thief.EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0(1).EventButtons_40_E4EF579B43F4DFDB4C58F296EF6280B0.EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8(0).EventEffects_5_B4B9BBC44E7B4D7D5B91E3B5D6CB0CC8.ChoiceConsequence_23_0DA8A7C64EBB7CAF5D87F3928EF75266
